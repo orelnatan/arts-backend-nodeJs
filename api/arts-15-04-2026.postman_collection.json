@@ -1,0 +1,201 @@
+{
+	"info": {
+		"_postman_id": "95f6e1d4-51a4-4d89-871c-5ea7156b55f5",
+		"name": "Ebay",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "6265479"
+	},
+	"item": [
+		{
+			"name": "brands",
+			"item": [
+				{
+					"name": "http://localhost:3001/get-all-brands",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3001/get-all-brands",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3001",
+							"path": [
+								"get-all-brands"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "categories",
+			"item": [
+				{
+					"name": "http://localhost:3001/get-categories-by-brand-id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3001/get-categories-by-brand-id?brandId=603",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3001",
+							"path": [
+								"get-categories-by-brand-id"
+							],
+							"query": [
+								{
+									"key": "brandId",
+									"value": "603"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "families",
+			"item": [
+				{
+					"name": "http://localhost:3001/get-families-by-category-id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3001/get-families-by-category-id?categoryId=79325",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3001",
+							"path": [
+								"get-families-by-category-id"
+							],
+							"query": [
+								{
+									"key": "categoryId",
+									"value": "79325"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "products",
+			"item": [
+				{
+					"name": "http://localhost:3001/get-products-by-family-id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3001/get-products-by-family-id?familyId=3206118",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3001",
+							"path": [
+								"get-products-by-family-id"
+							],
+							"query": [
+								{
+									"key": "familyId",
+									"value": "3206118"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:3001/get-products-name",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3001/get-products-by-name?name=ate ",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3001",
+							"path": [
+								"get-products-by-name"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "ate "
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "users",
+			"item": [
+				{
+					"name": "http://localhost:3001/login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\": \"Graves Oneal\",\n    \"email\": \"gravesoneal@quordate.com\",\n    \"password\": \"78freweb5d4654\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3001/login",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3001",
+							"path": [
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:3001/get-all-users",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3001/get-all-users",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3001",
+							"path": [
+								"get-all-users"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

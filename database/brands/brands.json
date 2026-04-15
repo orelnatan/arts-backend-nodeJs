@@ -1,0 +1,95 @@
+[
+    {
+      "id": 982,
+      "image": "https://picsum.photos/id/0/300/300",
+      "index": 0,
+      "name": "AVENETRO",
+      "serial": "0e61430f-9112-4618-b4cf-4afc3fd844de",
+      "description": "Velit nulla officia enim minim.",
+      "section": "L"
+    },
+    {
+      "id": 976,
+      "image": "https://picsum.photos/id/1/300/300",
+      "index": 1,
+      "name": "XPLOR",
+      "serial": "27f75290-a58d-4c97-86e8-275fa57c3565",
+      "description": "Aliqua in id ullamco incididunt laborum veniam elit consequat incididunt exercitation elit excepteur duis.",
+      "section": "G"
+    },
+    {
+      "id": 603,
+      "image": "https://picsum.photos/id/2/300/300",
+      "index": 2,
+      "name": "QABOOS",
+      "serial": "3b9deeb1-e635-4693-9bfa-83127d9d3d37",
+      "description": "Irure qui Lorem qui reprehenderit adipisicing consectetur commodo mollit fugiat deserunt laborum sunt laboris ex.",
+      "section": "G"
+    },
+    {
+      "id": 911,
+      "image": "https://picsum.photos/id/3/300/300",
+      "index": 3,
+      "name": "VELOS",
+      "serial": "1c0ca6ca-cda1-4741-a0f3-4c71fb4f4074",
+      "description": "Deserunt esse reprehenderit fugiat est quis nisi culpa.",
+      "section": "X"
+    },
+    {
+      "id": 281,
+      "image": "https://picsum.photos/id/4/300/300",
+      "index": 4,
+      "name": "MONDICIL",
+      "serial": "d6e6ab63-c5a5-498d-b422-8ac6d71184aa",
+      "description": "Ipsum pariatur dolore dolor adipisicing commodo magna nostrud elit ipsum magna.",
+      "section": "Z"
+    },
+    {
+      "id": 334,
+      "image": "https://picsum.photos/id/5/300/300",
+      "index": 5,
+      "name": "TALAE",
+      "serial": "2f2baa16-d142-46f4-bb10-a835fe18b52c",
+      "description": "Ut ipsum dolor duis pariatur.",
+      "section": "Z"
+    },
+    {
+      "id": 436,
+      "image": "https://picsum.photos/id/6/300/300",
+      "index": 6,
+      "name": "BUZZNESS",
+      "serial": "a53f946c-35c7-45f2-9fed-ccecde0c8d46",
+      "description": "Occaecat aliquip eu irure officia velit sit.",
+      "section": "X"
+    },
+    {
+      "id": 879,
+      "image": "https://picsum.photos/id/7/300/300",
+      "index": 7,
+      "name": "UNCORP",
+      "serial": "7a255ace-ba80-4023-8d56-bb5c05a13fc6",
+      "description": "Ullamco reprehenderit minim quis irure.",
+      "section": "M"
+    },
+    {
+      "id": 896,
+      "image": "https://picsum.photos/id/8/300/300",
+      "index": 8,
+      "name": "INTRAWEAR",
+      "serial": "5655bb35-a6f6-4117-a9db-4031e3b00b6d",
+      "description": "Incididunt cillum ea dolor occaecat adipisicing ea ad id excepteur amet.",
+      "section": "M"
+    },
+    {
+      "id": 522,
+      "image": "https://picsum.photos/id/9/300/300",
+      "index": 9,
+      "name": "IZZBY",
+      "serial": "fab03039-8df2-4e27-a044-122bf6f863ac",
+      "description": "Amet sint minim voluptate cillum adipisicing laboris pariatur nostrud.",
+      "section": "L"
+    }
+  ]
+
+
+  

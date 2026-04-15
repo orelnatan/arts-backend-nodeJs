@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 87080,
+    "image": "https://picsum.photos/id/111/300/300",
+    "index": 0,
+    "name": "Fuelton ullamco veniam",
+    "serial": "c36d07c3-9048-41c9-81ca-e85ad68bcce5",
+    "symbol": "ZS",
+    "description": "Fugiat occaecat voluptate aliqua dolor nostrud laborum commodo quis dolore ad incididunt.",
+    "categoryId": 62386
+  },
+  {
+    "id": 17191,
+    "image": "https://picsum.photos/id/112/300/300",
+    "index": 1,
+    "name": "Rodeology ex pariatur",
+    "serial": "8a84c38f-77a5-464d-8732-08247380f209",
+    "symbol": "XH",
+    "description": "Magna mollit dolor ad eiusmod veniam ad.",
+    "categoryId": 90077
+  },
+  {
+    "id": 69152,
+    "image": "https://picsum.photos/id/113/300/300",
+    "index": 2,
+    "name": "Datagene nulla duis",
+    "serial": "d1146801-2497-4e5b-8b9a-d7d66924c7c9",
+    "symbol": "SD",
+    "description": "Nostrud adipisicing ut eu dolore pariatur aliqua ex nisi ipsum do amet dolor.",
+    "categoryId": 79325
+  },
+  {
+    "id": 17383,
+    "image": "https://picsum.photos/id/114/300/300",
+    "index": 3,
+    "name": "Squish amet laboris",
+    "serial": "d2f3deaa-3f16-4898-92c3-ebc813efd547",
+    "symbol": "ZS",
+    "description": "Do id deserunt incididunt sit laborum incididunt.",
+    "categoryId": 36579
+  },
+  {
+    "id": 78894,
+    "image": "https://picsum.photos/id/115/300/300",
+    "index": 4,
+    "name": "Trasola laboris ipsum",
+    "serial": "fb19a975-ad0a-4bb8-8b31-750d86c517ad",
+    "symbol": "PO",
+    "description": "Sunt ea ipsum quis exercitation proident occaecat officia cupidatat ad incididunt eu occaecat.",
+    "categoryId": 21324
+  },
+  {
+    "id": 15745,
+    "image": "https://picsum.photos/id/116/300/300",
+    "index": 5,
+    "name": "Tubesys adipisicing ipsum",
+    "serial": "5541c3d4-42ab-4138-b66e-c457c490cf7e",
+    "symbol": "ZS",
+    "description": "Id aute est ipsum voluptate laborum elit elit cillum qui duis proident.",
+    "categoryId": 64071
+  },
+  {
+    "id": 20786,
+    "image": "https://picsum.photos/id/117/300/300",
+    "index": 6,
+    "name": "Digique laborum mollit",
+    "serial": "97e2922f-3b21-47f0-af88-31388704a6e0",
+    "symbol": "XH",
+    "description": "Incididunt adipisicing sit in incididunt fugiat et dolor mollit deserunt Lorem.",
+    "categoryId": 62386
+  },
+  {
+    "id": 16117,
+    "image": "https://picsum.photos/id/118/300/300",
+    "index": 7,
+    "name": "Namegen anim cillum",
+    "serial": "2ab9e342-c52b-4d75-b9d4-075ab89d684f",
+    "symbol": "ME",
+    "description": "Sunt aute laborum cupidatat ex Lorem nulla laborum id.",
+    "categoryId": 39923
+  },
+  {
+    "id": 13138,
+    "image": "https://picsum.photos/id/119/300/300",
+    "index": 8,
+    "name": "Datacator cillum cillum",
+    "serial": "c1d42275-3239-4211-b85f-8dccaf0071e8",
+    "symbol": "XR",
+    "description": "Cupidatat consequat enim consequat voluptate cupidatat.",
+    "categoryId": 35933
+  },
+  {
+    "id": 20879,
+    "image": "https://picsum.photos/id/120/300/300",
+    "index": 9,
+    "name": "Rockabye tempor mollit",
+    "serial": "a9886989-f1dc-4085-abf1-2c804316baa1",
+    "symbol": "XR",
+    "description": "Voluptate exercitation commodo nulla sit eu officia duis consectetur ex.",
+    "categoryId": 71018
+  },
+  {
+    "id": 587010,
+    "image": "https://picsum.photos/id/121/300/300",
+    "index": 10,
+    "name": "Quonk pariatur minim",
+    "serial": "e70e97f3-d946-4661-a41c-44f40283bb67",
+    "symbol": "ME",
+    "description": "Velit laborum nostrud elit enim culpa voluptate esse aute anim.",
+    "categoryId": 59568
+  },
+  {
+    "id": 935311,
+    "image": "https://picsum.photos/id/122/300/300",
+    "index": 11,
+    "name": "Exovent incididunt voluptate",
+    "serial": "bb66ceb2-5cb0-4c92-a60d-8a895b79816d",
+    "symbol": "XH",
+    "description": "Dolore mollit dolore consequat adipisicing commodo ea dolor aliqua duis esse ipsum.",
+    "categoryId": 62386
+  },
+  {
+    "id": 243212,
+    "image": "https://picsum.photos/id/123/300/300",
+    "index": 12,
+    "name": "Earbang minim occaecat",
+    "serial": "14f2235a-7c97-412b-b482-457bdf78085f",
+    "symbol": "ZS",
+    "description": "Aliquip incididunt consectetur aliquip do est magna exercitation velit in est amet nulla.",
+    "categoryId": 25530
+  },
+  {
+    "id": 677013,
+    "image": "https://picsum.photos/id/124/300/300",
+    "index": 13,
+    "name": "Zentix tempor anim",
+    "serial": "50ceb749-e386-4f16-b31a-8ef9c9c190e6",
+    "symbol": "QL",
+    "description": "Enim elit qui consequat irure irure elit exercitation dolore deserunt veniam in do.",
+    "categoryId": 79325
+  },
+  {
+    "id": 594514,
+    "image": "https://picsum.photos/id/125/300/300",
+    "index": 14,
+    "name": "Kraggle irure laborum",
+    "serial": "b5785f30-7490-415b-8bef-f9ab8591c407",
+    "symbol": "QL",
+    "description": "Officia qui reprehenderit culpa cupidatat laborum.",
+    "categoryId": 26382
+  },
+  {
+    "id": 235715,
+    "image": "https://picsum.photos/id/126/300/300",
+    "index": 15,
+    "name": "Zolar nisi labore",
+    "serial": "57272822-ff11-46a0-8dfa-e4a60d512cdb",
+    "symbol": "LD",
+    "description": "Veniam esse esse do magna ut nulla occaecat aute id occaecat mollit.",
+    "categoryId": 46151
+  },
+  {
+    "id": 323016,
+    "image": "https://picsum.photos/id/127/300/300",
+    "index": 16,
+    "name": "Exposa eiusmod in",
+    "serial": "1713d96b-c331-47f7-9110-47d8ebcf13ed",
+    "symbol": "XH",
+    "description": "Occaecat quis eu duis esse ut laboris id dolore eiusmod sint.",
+    "categoryId": 7818
+  },
+  {
+    "id": 310217,
+    "image": "https://picsum.photos/id/128/300/300",
+    "index": 17,
+    "name": "Emergent pariatur veniam",
+    "serial": "ba2668b4-cb36-4de4-ad19-1605506daa4b",
+    "symbol": "ME",
+    "description": "Dolore esse reprehenderit Lorem irure nostrud veniam.",
+    "categoryId": 90564
+  },
+  {
+    "id": 596418,
+    "image": "https://picsum.photos/id/129/300/300",
+    "index": 18,
+    "name": "Lovepad aliqua magna",
+    "serial": "1fedc800-8547-48b7-ad90-73b486387e52",
+    "symbol": "LD",
+    "description": "Fugiat anim id eu dolore pariatur adipisicing aute duis.",
+    "categoryId": 25530
+  },
+  {
+    "id": 788519,
+    "image": "https://picsum.photos/id/130/300/300",
+    "index": 19,
+    "name": "Zosis occaecat aute",
+    "serial": "8ec35fbf-8224-4cff-90b9-fefea2b26d8b",
+    "symbol": "MS",
+    "description": "Incididunt aliquip do voluptate elit pariatur ullamco qui fugiat fugiat.",
+    "categoryId": 65048
+  },
+  {
+    "id": 836320,
+    "image": "https://picsum.photos/id/131/300/300",
+    "index": 20,
+    "name": "Ginkogene irure minim",
+    "serial": "71344166-a5e5-4cd3-9a19-a0afbc2b105e",
+    "symbol": "PO",
+    "description": "Ut mollit laboris culpa eiusmod ipsum.",
+    "categoryId": 99131
+  },
+  {
+    "id": 669421,
+    "image": "https://picsum.photos/id/132/300/300",
+    "index": 21,
+    "name": "Terrago deserunt duis",
+    "serial": "df88daf3-cb8d-4c05-b5ab-eddd77e62231",
+    "symbol": "LD",
+    "description": "Esse excepteur et labore excepteur fugiat est.",
+    "categoryId": 25530
+  },
+  {
+    "id": 205022,
+    "image": "https://picsum.photos/id/133/300/300",
+    "index": 22,
+    "name": "Strozen in reprehenderit",
+    "serial": "12ad164e-3b6f-4714-b661-5d3919a37d2b",
+    "symbol": "XH",
+    "description": "Reprehenderit culpa nulla laborum labore et commodo laboris tempor.",
+    "categoryId": 63032
+  },
+  {
+    "id": 327023,
+    "image": "https://picsum.photos/id/134/300/300",
+    "index": 23,
+    "name": "Zuvy velit enim",
+    "serial": "d97d37c5-0e5b-4dc5-b298-78c7651052f3",
+    "symbol": "ZS",
+    "description": "Labore nulla proident occaecat ex commodo aliqua sunt non voluptate in ex velit in labore.",
+    "categoryId": 39923
+  },
+  {
+    "id": 286324,
+    "image": "https://picsum.photos/id/135/300/300",
+    "index": 24,
+    "name": "Undertap dolor in",
+    "serial": "371b8c49-b028-4c9b-9b5d-57eb6e552a67",
+    "symbol": "XR",
+    "description": "Exercitation voluptate aliquip officia nulla proident labore laboris aute.",
+    "categoryId": 70199
+  },
+  {
+    "id": 597125,
+    "image": "https://picsum.photos/id/136/300/300",
+    "index": 25,
+    "name": "Xumonk adipisicing sit",
+    "serial": "84cd5543-15a1-4e4d-88a9-929e799cb677",
+    "symbol": "QL",
+    "description": "Nostrud irure dolore ipsum do esse laborum.",
+    "categoryId": 29973
+  },
+  {
+    "id": 949526,
+    "image": "https://picsum.photos/id/137/300/300",
+    "index": 26,
+    "name": "Cytrek mollit esse",
+    "serial": "8798ac68-df10-4c98-b3b8-95f128cfc82a",
+    "symbol": "LD",
+    "description": "Ut minim officia irure eiusmod nostrud ullamco cillum anim mollit.",
+    "categoryId": 68712
+  },
+  {
+    "id": 466027,
+    "image": "https://picsum.photos/id/138/300/300",
+    "index": 27,
+    "name": "Maximind ex veniam",
+    "serial": "25fcabe1-15e3-45e3-89e0-3dc3dfe95a18",
+    "symbol": "GF",
+    "description": "Pariatur labore excepteur ipsum laborum elit aliquip Lorem.",
+    "categoryId": 68712
+  },
+  {
+    "id": 407628,
+    "image": "https://picsum.photos/id/139/300/300",
+    "index": 28,
+    "name": "Flotonic magna cupidatat",
+    "serial": "88620fff-3473-49a8-b860-27216c6ee418",
+    "symbol": "RR",
+    "description": "Aute commodo quis et duis enim magna quis proident amet consequat sit magna adipisicing ipsum.",
+    "categoryId": 43883
+  },
+  {
+    "id": 467829,
+    "image": "https://picsum.photos/id/140/300/300",
+    "index": 29,
+    "name": "Comdom reprehenderit fugiat",
+    "serial": "0f9bf36d-e122-4507-9e90-c6b5bca8fb0c",
+    "symbol": "XH",
+    "description": "Eu nisi magna magna reprehenderit nostrud qui elit non enim labore reprehenderit.",
+    "categoryId": 77693
+  },
+  {
+    "id": 933730,
+    "image": "https://picsum.photos/id/141/300/300",
+    "index": 30,
+    "name": "Coriander est velit",
+    "serial": "04565f70-abbc-4990-8b03-2fd355eb670d",
+    "symbol": "RR",
+    "description": "Nulla eu est ex amet reprehenderit consequat et eu do reprehenderit ullamco sint labore laboris.",
+    "categoryId": 35933
+  },
+  {
+    "id": 647231,
+    "image": "https://picsum.photos/id/142/300/300",
+    "index": 31,
+    "name": "Skinserve exercitation do",
+    "serial": "d33dcbb2-7adb-46b3-bc37-2c67dbe5ddc2",
+    "symbol": "ZS",
+    "description": "Laborum est culpa esse non proident eiusmod sunt ad non eiusmod.",
+    "categoryId": 7818
+  },
+  {
+    "id": 958332,
+    "image": "https://picsum.photos/id/143/300/300",
+    "index": 32,
+    "name": "Matrixity quis cillum",
+    "serial": "b1b39080-0ce9-47b5-b340-61d85d27947b",
+    "symbol": "ME",
+    "description": "Deserunt Lorem sit ad reprehenderit est sint pariatur esse culpa ut.",
+    "categoryId": 28667
+  },
+  {
+    "id": 330433,
+    "image": "https://picsum.photos/id/144/300/300",
+    "index": 33,
+    "name": "Frolix anim eiusmod",
+    "serial": "f3547a4d-5949-4c29-b4af-70a765bd502c",
+    "symbol": "GF",
+    "description": "Dolore do aliquip laboris voluptate non ullamco.",
+    "categoryId": 19946
+  },
+  {
+    "id": 373534,
+    "image": "https://picsum.photos/id/145/300/300",
+    "index": 34,
+    "name": "Pyramis fugiat ex",
+    "serial": "6a83c10e-d2e6-4ff7-8bfa-a9606d0d3910",
+    "symbol": "XH",
+    "description": "Eu esse mollit pariatur quis pariatur.",
+    "categoryId": 75326
+  },
+  {
+    "id": 983035,
+    "image": "https://picsum.photos/id/146/300/300",
+    "index": 35,
+    "name": "Rockyard veniam aliqua",
+    "serial": "1e3886aa-e4ad-44a0-a533-cf8e44f0d593",
+    "symbol": "ME",
+    "description": "Velit ut adipisicing reprehenderit ea do.",
+    "categoryId": 52449
+  },
+  {
+    "id": 416936,
+    "image": "https://picsum.photos/id/147/300/300",
+    "index": 36,
+    "name": "Schoolio consequat cupidatat",
+    "serial": "aebd76f0-d431-4b3a-9a03-3721d969a1f2",
+    "symbol": "GF",
+    "description": "Enim aliqua pariatur exercitation nisi ex.",
+    "categoryId": 7818
+  },
+  {
+    "id": 901037,
+    "image": "https://picsum.photos/id/148/300/300",
+    "index": 37,
+    "name": "Xoggle tempor velit",
+    "serial": "76b2ac74-0712-4705-a3e6-84e0a3e1ab8f",
+    "symbol": "LD",
+    "description": "Magna adipisicing sit elit nulla culpa in sit ipsum enim.",
+    "categoryId": 68712
+  },
+  {
+    "id": 101838,
+    "image": "https://picsum.photos/id/149/300/300",
+    "index": 38,
+    "name": "Fibrodyne ut commodo",
+    "serial": "0bc71f07-8e5d-4c2d-9f77-e461e5c7bc60",
+    "symbol": "QL",
+    "description": "Consectetur et magna fugiat sint sit aute aliqua fugiat tempor excepteur.",
+    "categoryId": 54875
+  },
+  {
+    "id": 828639,
+    "image": "https://picsum.photos/id/150/300/300",
+    "index": 39,
+    "name": "Cubicide ipsum nisi",
+    "serial": "94947744-8daf-4534-a9d4-ccf40fccde2f",
+    "symbol": "QL",
+    "description": "Est commodo pariatur adipisicing sint mollit quis eu ea commodo id irure ullamco anim officia.",
+    "categoryId": 83587
+  },
+  {
+    "id": 263240,
+    "image": "https://picsum.photos/id/151/300/300",
+    "index": 40,
+    "name": "Verton culpa aliquip",
+    "serial": "3c4d9424-02b8-4792-9ebf-0d7a937963bb",
+    "symbol": "ME",
+    "description": "Sint magna nulla qui ut pariatur nostrud laborum duis duis.",
+    "categoryId": 43883
+  },
+  {
+    "id": 474641,
+    "image": "https://picsum.photos/id/152/300/300",
+    "index": 41,
+    "name": "Pawnagra qui cillum",
+    "serial": "be731b62-955f-47c5-8f74-df08c53b3dd1",
+    "symbol": "SD",
+    "description": "Eu aliquip ullamco cupidatat qui.",
+    "categoryId": 22092
+  },
+  {
+    "id": 762742,
+    "image": "https://picsum.photos/id/153/300/300",
+    "index": 42,
+    "name": "Comtent non pariatur",
+    "serial": "ac7a8558-6f4e-455e-b353-37aeafcc0061",
+    "symbol": "RR",
+    "description": "Pariatur et pariatur occaecat amet irure mollit enim ea qui fugiat excepteur.",
+    "categoryId": 26659
+  },
+  {
+    "id": 359043,
+    "image": "https://picsum.photos/id/154/300/300",
+    "index": 43,
+    "name": "Equitax velit aute",
+    "serial": "ce97328d-ac59-438c-8763-861cc335166c",
+    "symbol": "XR",
+    "description": "Magna amet esse ullamco pariatur voluptate.",
+    "categoryId": 59568
+  },
+  {
+    "id": 826344,
+    "image": "https://picsum.photos/id/155/300/300",
+    "index": 44,
+    "name": "Exozent et amet",
+    "serial": "55f43c6a-0fce-4e40-8c10-291d33f89137",
+    "symbol": "LD",
+    "description": "Nisi reprehenderit est quis aute Lorem voluptate quis nostrud amet enim tempor fugiat duis consectetur.",
+    "categoryId": 78494
+  },
+  {
+    "id": 499345,
+    "image": "https://picsum.photos/id/156/300/300",
+    "index": 45,
+    "name": "Uxmox in eiusmod",
+    "serial": "e7e96733-3f7d-42ba-87ff-5a74226fd52b",
+    "symbol": "ZS",
+    "description": "Nostrud Lorem excepteur labore adipisicing amet officia deserunt fugiat.",
+    "categoryId": 34017
+  },
+  {
+    "id": 189746,
+    "image": "https://picsum.photos/id/157/300/300",
+    "index": 46,
+    "name": "Extragen elit esse",
+    "serial": "75468806-e6d6-4b42-b779-56f1aeb401c2",
+    "symbol": "PO",
+    "description": "Minim minim qui excepteur amet.",
+    "categoryId": 6616
+  },
+  {
+    "id": 608847,
+    "image": "https://picsum.photos/id/158/300/300",
+    "index": 47,
+    "name": "Viagreat voluptate qui",
+    "serial": "6a3aae37-dab9-42f7-956e-5898d5a9f2d0",
+    "symbol": "MS",
+    "description": "Ex in aliquip in adipisicing occaecat ex aute fugiat.",
+    "categoryId": 18728
+  },
+  {
+    "id": 771648,
+    "image": "https://picsum.photos/id/159/300/300",
+    "index": 48,
+    "name": "Sealoud enim incididunt",
+    "serial": "2662d365-d6bd-4505-b989-8c57d1ef9bbd",
+    "symbol": "XR",
+    "description": "Incididunt eiusmod laborum irure anim sunt fugiat irure commodo.",
+    "categoryId": 47396
+  },
+  {
+    "id": 870849,
+    "image": "https://picsum.photos/id/160/300/300",
+    "index": 49,
+    "name": "Suretech deserunt consectetur",
+    "serial": "52259466-713d-4853-b36d-843230b4378c",
+    "symbol": "PO",
+    "description": "Ea dolore nisi aute voluptate laboris laborum.",
+    "categoryId": 9924
+  },
+  {
+    "id": 980950,
+    "image": "https://picsum.photos/id/161/300/300",
+    "index": 50,
+    "name": "Sureplex quis incididunt",
+    "serial": "1a5aa622-bc59-4c09-ab82-0e9be2cc2617",
+    "symbol": "PO",
+    "description": "Sunt ex excepteur sunt proident fugiat qui.",
+    "categoryId": 25530
+  },
+  {
+    "id": 717751,
+    "image": "https://picsum.photos/id/162/300/300",
+    "index": 51,
+    "name": "Zillacom voluptate fugiat",
+    "serial": "d42fe5a7-9c38-4af1-b0d6-0d60dca7744d",
+    "symbol": "RR",
+    "description": "Non elit eu sint quis officia laborum nulla aliqua irure mollit consectetur.",
+    "categoryId": 64071
+  },
+  {
+    "id": 230052,
+    "image": "https://picsum.photos/id/163/300/300",
+    "index": 52,
+    "name": "Techade cupidatat incididunt",
+    "serial": "9e40b526-93f7-4b3f-9970-ec353f902782",
+    "symbol": "LD",
+    "description": "Laborum quis excepteur commodo mollit minim.",
+    "categoryId": 5532
+  },
+  {
+    "id": 713053,
+    "image": "https://picsum.photos/id/164/300/300",
+    "index": 53,
+    "name": "Netbook amet adipisicing",
+    "serial": "429de3d7-3bb1-4a07-812d-c4e1d7b32fcb",
+    "symbol": "QL",
+    "description": "Enim cupidatat dolore reprehenderit ad.",
+    "categoryId": 13772
+  },
+  {
+    "id": 370754,
+    "image": "https://picsum.photos/id/165/300/300",
+    "index": 54,
+    "name": "Zaj consectetur consequat",
+    "serial": "12240b20-39bc-41bd-8355-a9c2d5eb5f0e",
+    "symbol": "PO",
+    "description": "Incididunt consectetur dolor dolore minim consequat Lorem reprehenderit sit ipsum irure velit sit ullamco.",
+    "categoryId": 37861
+  },
+  {
+    "id": 724455,
+    "image": "https://picsum.photos/id/166/300/300",
+    "index": 55,
+    "name": "Eclipsent irure aliqua",
+    "serial": "f3a7c3d6-6bbf-4c11-ad84-4640a9a9cfaa",
+    "symbol": "QL",
+    "description": "Excepteur ad elit quis ea culpa exercitation id aliqua dolore elit voluptate.",
+    "categoryId": 62386
+  },
+  {
+    "id": 493556,
+    "image": "https://picsum.photos/id/167/300/300",
+    "index": 56,
+    "name": "Vurbo dolore duis",
+    "serial": "38ee7093-7a89-4635-a1ec-8c6ceb407673",
+    "symbol": "GF",
+    "description": "Lorem anim eu qui labore nostrud.",
+    "categoryId": 87114
+  },
+  {
+    "id": 200457,
+    "image": "https://picsum.photos/id/168/300/300",
+    "index": 57,
+    "name": "Entroflex tempor nulla",
+    "serial": "2e0a238d-5ae1-437a-92fe-309ebb32307c",
+    "symbol": "XH",
+    "description": "Elit cillum consectetur labore fugiat enim cupidatat duis irure incididunt ea.",
+    "categoryId": 94220
+  },
+  {
+    "id": 123758,
+    "image": "https://picsum.photos/id/169/300/300",
+    "index": 58,
+    "name": "Comveyor veniam magna",
+    "serial": "5f5f49e6-6013-4528-8325-43e66501cdee",
+    "symbol": "XH",
+    "description": "Pariatur aliquip velit anim amet.",
+    "categoryId": 13772
+  },
+  {
+    "id": 270859,
+    "image": "https://picsum.photos/id/170/300/300",
+    "index": 59,
+    "name": "Neocent quis deserunt",
+    "serial": "37ab8a4d-490a-42b9-a1f8-5aa4cb963715",
+    "symbol": "LD",
+    "description": "Officia ea commodo nulla tempor pariatur dolor amet consectetur.",
+    "categoryId": 80916
+  },
+  {
+    "id": 512160,
+    "image": "https://picsum.photos/id/171/300/300",
+    "index": 60,
+    "name": "Nspire esse proident",
+    "serial": "2320864a-b9d1-4cc8-81d7-f4658aaeb696",
+    "symbol": "XH",
+    "description": "Officia irure deserunt velit do laboris incididunt.",
+    "categoryId": 13821
+  },
+  {
+    "id": 394261,
+    "image": "https://picsum.photos/id/172/300/300",
+    "index": 61,
+    "name": "Comtours adipisicing ut",
+    "serial": "269096c5-8e60-4d74-b087-6e47fe9f4336",
+    "symbol": "QL",
+    "description": "Do dolor ad officia excepteur proident labore est Lorem non laboris fugiat eiusmod.",
+    "categoryId": 84776
+  },
+  {
+    "id": 796162,
+    "image": "https://picsum.photos/id/173/300/300",
+    "index": 62,
+    "name": "Pharmacon ex et",
+    "serial": "8b122550-d716-4a95-9f67-6608341d18b5",
+    "symbol": "PO",
+    "description": "Incididunt consectetur et consectetur veniam do consequat laborum incididunt anim veniam.",
+    "categoryId": 7818
+  },
+  {
+    "id": 438363,
+    "image": "https://picsum.photos/id/174/300/300",
+    "index": 63,
+    "name": "Kog exercitation consectetur",
+    "serial": "3a6f29f7-ecbe-4ab7-9f6c-96b4d128883e",
+    "symbol": "RR",
+    "description": "Cupidatat veniam fugiat mollit sit exercitation consectetur eiusmod do ex aliqua irure laborum culpa voluptate.",
+    "categoryId": 43497
+  },
+  {
+    "id": 971364,
+    "image": "https://picsum.photos/id/175/300/300",
+    "index": 64,
+    "name": "Zepitope ullamco ullamco",
+    "serial": "bd724241-8a4c-4519-ab3a-5014e9aef7ec",
+    "symbol": "RR",
+    "description": "Qui laborum elit culpa veniam deserunt consequat.",
+    "categoryId": 90077
+  },
+  {
+    "id": 698665,
+    "image": "https://picsum.photos/id/176/300/300",
+    "index": 65,
+    "name": "Pearlesex irure occaecat",
+    "serial": "29bf4b4c-d6db-4cec-9849-472b2b092c44",
+    "symbol": "XR",
+    "description": "In ullamco eu aliqua dolore voluptate et commodo mollit.",
+    "categoryId": 72842
+  },
+  {
+    "id": 427066,
+    "image": "https://picsum.photos/id/177/300/300",
+    "index": 66,
+    "name": "Konnect exercitation anim",
+    "serial": "9edaeeb9-8f5b-46a2-bae8-091f5991c299",
+    "symbol": "GF",
+    "description": "Deserunt eiusmod reprehenderit id amet reprehenderit.",
+    "categoryId": 1790
+  },
+  {
+    "id": 405767,
+    "image": "https://picsum.photos/id/178/300/300",
+    "index": 67,
+    "name": "Snowpoke ut laboris",
+    "serial": "9189bfc5-619c-4d51-8f3f-c57bfa4888f1",
+    "symbol": "GF",
+    "description": "Adipisicing eiusmod reprehenderit esse anim incididunt est anim ullamco cupidatat id in.",
+    "categoryId": 8055
+  },
+  {
+    "id": 332968,
+    "image": "https://picsum.photos/id/179/300/300",
+    "index": 68,
+    "name": "Calcu aliquip cillum",
+    "serial": "151e92ac-4d39-4362-a99a-d89c285ce5be",
+    "symbol": "RR",
+    "description": "Ea id velit consectetur dolore veniam duis ipsum cillum in.",
+    "categoryId": 98366
+  },
+  {
+    "id": 327869,
+    "image": "https://picsum.photos/id/180/300/300",
+    "index": 69,
+    "name": "Housedown enim tempor",
+    "serial": "908507d1-49d7-4a66-a98c-61951802d49e",
+    "symbol": "LD",
+    "description": "Ea esse quis incididunt ut Lorem exercitation.",
+    "categoryId": 22092
+  },
+  {
+    "id": 493270,
+    "image": "https://picsum.photos/id/181/300/300",
+    "index": 70,
+    "name": "Datagen quis consectetur",
+    "serial": "d62eb02c-834d-4b8c-9ce7-bb6d36ab5936",
+    "symbol": "MS",
+    "description": "Incididunt veniam sunt id cupidatat eiusmod ea ipsum fugiat tempor esse qui sunt sit sint.",
+    "categoryId": 39643
+  },
+  {
+    "id": 819171,
+    "image": "https://picsum.photos/id/182/300/300",
+    "index": 71,
+    "name": "Earthpure aliqua aliquip",
+    "serial": "2a3950b1-eef8-4fe9-871e-baaa0eed6854",
+    "symbol": "MS",
+    "description": "Aute amet aute in aute velit ut dolore esse ullamco amet mollit sunt eiusmod dolor.",
+    "categoryId": 99310
+  },
+  {
+    "id": 518672,
+    "image": "https://picsum.photos/id/183/300/300",
+    "index": 72,
+    "name": "Futurity consequat dolore",
+    "serial": "0b6d98d8-452d-4419-90d8-210ab5d37684",
+    "symbol": "RR",
+    "description": "Officia quis nulla Lorem dolore excepteur do aliquip ad velit dolore in laborum minim.",
+    "categoryId": 8055
+  },
+  {
+    "id": 484073,
+    "image": "https://picsum.photos/id/184/300/300",
+    "index": 73,
+    "name": "Manglo laborum adipisicing",
+    "serial": "c889c4fc-6c07-4174-8f63-e1de6f06f06c",
+    "symbol": "PO",
+    "description": "Laboris pariatur occaecat cupidatat proident nisi tempor pariatur et ullamco.",
+    "categoryId": 10450
+  },
+  {
+    "id": 580574,
+    "image": "https://picsum.photos/id/185/300/300",
+    "index": 74,
+    "name": "Qot eu culpa",
+    "serial": "bcbad79f-73c5-4128-9754-eb21eed3c3e6",
+    "symbol": "MS",
+    "description": "Minim eu nulla duis deserunt dolore fugiat amet adipisicing ipsum enim.",
+    "categoryId": 37861
+  },
+  {
+    "id": 299775,
+    "image": "https://picsum.photos/id/186/300/300",
+    "index": 75,
+    "name": "Evidends labore aliqua",
+    "serial": "39280b25-455c-41a0-8c42-3b35bf2d6e6f",
+    "symbol": "LD",
+    "description": "Reprehenderit reprehenderit irure excepteur esse exercitation ad elit et fugiat ullamco aliquip.",
+    "categoryId": 66635
+  },
+  {
+    "id": 811076,
+    "image": "https://picsum.photos/id/187/300/300",
+    "index": 76,
+    "name": "Bisba dolore aute",
+    "serial": "f45037a3-9d56-4fe8-84f7-82f5ec77e4b7",
+    "symbol": "XR",
+    "description": "Officia ullamco velit amet quis dolore fugiat non sint Lorem id.",
+    "categoryId": 96040
+  },
+  {
+    "id": 426477,
+    "image": "https://picsum.photos/id/188/300/300",
+    "index": 77,
+    "name": "Retrack eiusmod amet",
+    "serial": "d411f99a-3ed8-4fbc-9b93-98acac97a54b",
+    "symbol": "XH",
+    "description": "Incididunt ut aliquip ipsum occaecat irure consectetur nostrud voluptate reprehenderit officia aliqua voluptate.",
+    "categoryId": 29973
+  },
+  {
+    "id": 785078,
+    "image": "https://picsum.photos/id/189/300/300",
+    "index": 78,
+    "name": "Uplinx commodo cupidatat",
+    "serial": "c75d35d6-f567-462e-b00a-e6f837e201af",
+    "symbol": "XR",
+    "description": "Eiusmod non aute aute culpa minim voluptate fugiat et.",
+    "categoryId": 32170
+  },
+  {
+    "id": 901379,
+    "image": "https://picsum.photos/id/190/300/300",
+    "index": 79,
+    "name": "Genekom labore excepteur",
+    "serial": "b3e3cef0-5052-4a5b-ae06-4dff42dfeb39",
+    "symbol": "MS",
+    "description": "Tempor esse cupidatat ad sit ipsum adipisicing esse cillum dolor exercitation laborum veniam.",
+    "categoryId": 22663
+  },
+  {
+    "id": 394980,
+    "image": "https://picsum.photos/id/191/300/300",
+    "index": 80,
+    "name": "Austex eiusmod sunt",
+    "serial": "711678b7-42fa-4901-94a5-82a21ee0469f",
+    "symbol": "QL",
+    "description": "Id aute do amet officia incididunt commodo id.",
+    "categoryId": 47095
+  },
+  {
+    "id": 389281,
+    "image": "https://picsum.photos/id/192/300/300",
+    "index": 81,
+    "name": "Bytrex ex aute",
+    "serial": "31189d56-d321-4ab9-88d3-e49e8c0b4800",
+    "symbol": "GF",
+    "description": "Quis quis et nulla deserunt officia irure voluptate Lorem.",
+    "categoryId": 59568
+  },
+  {
+    "id": 738382,
+    "image": "https://picsum.photos/id/193/300/300",
+    "index": 82,
+    "name": "Comtrek nulla laboris",
+    "serial": "39343a23-69fc-4cf8-992a-6881715e09da",
+    "symbol": "PO",
+    "description": "Dolor eiusmod ex culpa consectetur id nisi dolor dolor esse irure.",
+    "categoryId": 57378
+  },
+  {
+    "id": 512983,
+    "image": "https://picsum.photos/id/194/300/300",
+    "index": 83,
+    "name": "Orbaxter est qui",
+    "serial": "7877f684-64c0-4021-8f6c-c889a5f670bc",
+    "symbol": "XR",
+    "description": "Dolor sint anim sit culpa aliquip veniam est deserunt anim commodo veniam tempor dolor.",
+    "categoryId": 60980
+  },
+  {
+    "id": 722384,
+    "image": "https://picsum.photos/id/195/300/300",
+    "index": 84,
+    "name": "Bulljuice sint veniam",
+    "serial": "08f37f4f-419c-4949-82d2-a85156b6cb15",
+    "symbol": "GF",
+    "description": "Officia cupidatat aute proident fugiat adipisicing est sunt proident exercitation reprehenderit Lorem fugiat esse.",
+    "categoryId": 96929
+  },
+  {
+    "id": 668985,
+    "image": "https://picsum.photos/id/196/300/300",
+    "index": 85,
+    "name": "Bezal quis veniam",
+    "serial": "8f5c7dce-b8ba-4584-aa67-6fb051f1ef71",
+    "symbol": "XR",
+    "description": "Ex quis sunt dolore esse do eu commodo cillum elit.",
+    "categoryId": 43497
+  },
+  {
+    "id": 820186,
+    "image": "https://picsum.photos/id/197/300/300",
+    "index": 86,
+    "name": "Beadzza eiusmod aliquip",
+    "serial": "b581c1d0-901c-4e39-9b7b-6ebd6726ef21",
+    "symbol": "GF",
+    "description": "Pariatur dolor in commodo pariatur ad do aute esse deserunt laboris consectetur amet laborum cillum.",
+    "categoryId": 39923
+  },
+  {
+    "id": 246887,
+    "image": "https://picsum.photos/id/198/300/300",
+    "index": 87,
+    "name": "Musix eu cillum",
+    "serial": "721ea5dd-2ef6-4803-bc0c-752affc7d184",
+    "symbol": "LD",
+    "description": "Exercitation magna nisi veniam occaecat nostrud do amet reprehenderit aute aute pariatur.",
+    "categoryId": 21324
+  },
+  {
+    "id": 459888,
+    "image": "https://picsum.photos/id/199/300/300",
+    "index": 88,
+    "name": "Optyk sit dolore",
+    "serial": "6d14b4f4-f52c-494a-938a-c2fec24b5c16",
+    "symbol": "PO",
+    "description": "Ut cillum Lorem esse culpa incididunt eu reprehenderit adipisicing.",
+    "categoryId": 5563
+  },
+  {
+    "id": 587489,
+    "image": "https://picsum.photos/id/200/300/300",
+    "index": 89,
+    "name": "Synkgen pariatur culpa",
+    "serial": "597e67e4-022a-4058-a81e-4c476c96f3c5",
+    "symbol": "SD",
+    "description": "Et tempor consectetur culpa esse commodo tempor enim fugiat excepteur duis sint ad excepteur aliqua.",
+    "categoryId": 90088
+  },
+  {
+    "id": 359790,
+    "image": "https://picsum.photos/id/201/300/300",
+    "index": 90,
+    "name": "Magnina non occaecat",
+    "serial": "aa0f3a79-d117-4329-b644-0ca7d9c497aa",
+    "symbol": "ZS",
+    "description": "Et exercitation Lorem aliquip veniam pariatur nisi cillum fugiat adipisicing et ea id quis.",
+    "categoryId": 24236
+  },
+  {
+    "id": 108691,
+    "image": "https://picsum.photos/id/202/300/300",
+    "index": 91,
+    "name": "Ziore mollit reprehenderit",
+    "serial": "8a3ed8d9-7d43-4688-96d8-cbcf96a08213",
+    "symbol": "XH",
+    "description": "Elit sint non reprehenderit ad ex id incididunt nisi in pariatur adipisicing.",
+    "categoryId": 80916
+  },
+  {
+    "id": 832692,
+    "image": "https://picsum.photos/id/203/300/300",
+    "index": 92,
+    "name": "Ginkle consectetur incididunt",
+    "serial": "841c0d49-921a-4842-bd34-3256f21abedf",
+    "symbol": "XR",
+    "description": "Sint ea tempor id laborum ex aliqua quis nulla ipsum ad ullamco irure nulla est.",
+    "categoryId": 21324
+  },
+  {
+    "id": 501393,
+    "image": "https://picsum.photos/id/204/300/300",
+    "index": 93,
+    "name": "Prismatic qui et",
+    "serial": "419cae0d-15d6-4b1d-b8ac-a14bed0e3a41",
+    "symbol": "QL",
+    "description": "Fugiat ullamco reprehenderit mollit duis exercitation sint culpa proident fugiat ex.",
+    "categoryId": 11352
+  },
+  {
+    "id": 316994,
+    "image": "https://picsum.photos/id/205/300/300",
+    "index": 94,
+    "name": "Ovation ut veniam",
+    "serial": "b6db0f11-9327-494e-8b7e-e7a20ded3c84",
+    "symbol": "ME",
+    "description": "Sint laboris cillum esse sunt est culpa laborum consectetur incididunt duis id excepteur.",
+    "categoryId": 90088
+  },
+  {
+    "id": 380895,
+    "image": "https://picsum.photos/id/206/300/300",
+    "index": 95,
+    "name": "Ceprene ullamco labore",
+    "serial": "e4a501ec-ad45-4672-9fc4-a7c0115e01cc",
+    "symbol": "QL",
+    "description": "Velit sunt adipisicing consectetur voluptate occaecat cupidatat minim duis ipsum cillum labore ullamco officia.",
+    "categoryId": 6681
+  },
+  {
+    "id": 731896,
+    "image": "https://picsum.photos/id/207/300/300",
+    "index": 96,
+    "name": "Liquicom ut nulla",
+    "serial": "2137fe6d-fb58-402a-9c36-04349ec57352",
+    "symbol": "ZS",
+    "description": "Culpa eiusmod duis reprehenderit excepteur dolor dolore irure minim do qui ea.",
+    "categoryId": 10947
+  },
+  {
+    "id": 110097,
+    "image": "https://picsum.photos/id/208/300/300",
+    "index": 97,
+    "name": "Qaboos et mollit",
+    "serial": "71b7171a-dcfa-4454-b50e-9a96c15ae387",
+    "symbol": "QL",
+    "description": "Sit ea pariatur eiusmod consequat irure duis consectetur.",
+    "categoryId": 67291
+  },
+  {
+    "id": 186398,
+    "image": "https://picsum.photos/id/209/300/300",
+    "index": 98,
+    "name": "Bluplanet est culpa",
+    "serial": "51e0845e-d885-467f-a56d-b30578ba7a16",
+    "symbol": "QL",
+    "description": "Quis esse do exercitation ea do officia enim sit ullamco enim veniam ex eu.",
+    "categoryId": 22558
+  },
+  {
+    "id": 946799,
+    "image": "https://picsum.photos/id/210/300/300",
+    "index": 99,
+    "name": "Calcula adipisicing tempor",
+    "serial": "e04b427d-9a2f-4055-87ae-2e4d0b120818",
+    "symbol": "ZS",
+    "description": "Aute elit esse minim et sunt ad.",
+    "categoryId": 30481
+  },
+  {
+    "id": 1316100,
+    "image": "https://picsum.photos/id/211/300/300",
+    "index": 100,
+    "name": "Shopabout et reprehenderit",
+    "serial": "e715d6fb-677d-4a57-932b-30c93c89ad34",
+    "symbol": "PO",
+    "description": "Aliqua consequat veniam laboris anim cupidatat labore exercitation fugiat proident incididunt non laboris.",
+    "categoryId": 24236
+  },
+  {
+    "id": 4186101,
+    "image": "https://picsum.photos/id/212/300/300",
+    "index": 101,
+    "name": "Biospan dolore ut",
+    "serial": "676aaab0-0ab4-43dc-91ab-94f6f507c024",
+    "symbol": "GF",
+    "description": "Laboris do ea aute tempor culpa dolore quis occaecat non id ipsum deserunt.",
+    "categoryId": 20739
+  },
+  {
+    "id": 8534102,
+    "image": "https://picsum.photos/id/213/300/300",
+    "index": 102,
+    "name": "Globoil irure magna",
+    "serial": "99c32465-3769-4bbb-ad32-560c9d4b5cbe",
+    "symbol": "RR",
+    "description": "Consequat reprehenderit aliqua nostrud id proident fugiat do ad exercitation incididunt irure mollit aliquip dolore.",
+    "categoryId": 19946
+  },
+  {
+    "id": 5685103,
+    "image": "https://picsum.photos/id/214/300/300",
+    "index": 103,
+    "name": "Cinaster consequat nostrud",
+    "serial": "fbed6b24-269b-410d-bd1b-990b35da594f",
+    "symbol": "XH",
+    "description": "Culpa eu do id deserunt et nostrud Lorem.",
+    "categoryId": 57474
+  },
+  {
+    "id": 6461104,
+    "image": "https://picsum.photos/id/215/300/300",
+    "index": 104,
+    "name": "Playce do laborum",
+    "serial": "a98ab188-43dc-4d53-b972-f88b61bfb3f0",
+    "symbol": "QL",
+    "description": "Sunt ut fugiat est sint officia eu aliqua proident.",
+    "categoryId": 25530
+  },
+  {
+    "id": 5754105,
+    "image": "https://picsum.photos/id/216/300/300",
+    "index": 105,
+    "name": "Obliq nostrud consequat",
+    "serial": "294ac9c4-41c7-487f-a9bd-973522fcd89f",
+    "symbol": "GF",
+    "description": "Ex ex tempor excepteur nostrud ad non.",
+    "categoryId": 8055
+  },
+  {
+    "id": 1212106,
+    "image": "https://picsum.photos/id/217/300/300",
+    "index": 106,
+    "name": "Comvex aliqua incididunt",
+    "serial": "5fc8c128-cf46-45e6-9793-9993e6493129",
+    "symbol": "RR",
+    "description": "Ut aliquip commodo duis ex culpa pariatur voluptate magna est do aute magna occaecat.",
+    "categoryId": 39643
+  },
+  {
+    "id": 3985107,
+    "image": "https://picsum.photos/id/218/300/300",
+    "index": 107,
+    "name": "Vixo aliquip duis",
+    "serial": "7fe869c8-47b5-4ebd-b97a-762124a31124",
+    "symbol": "RR",
+    "description": "Culpa minim sint veniam ipsum qui proident aliqua sint sint est Lorem.",
+    "categoryId": 75326
+  },
+  {
+    "id": 3614108,
+    "image": "https://picsum.photos/id/219/300/300",
+    "index": 108,
+    "name": "Printspan sunt adipisicing",
+    "serial": "58060776-bc25-4bda-bd56-0d823eff7f52",
+    "symbol": "LD",
+    "description": "Deserunt elit deserunt id occaecat magna qui sunt amet.",
+    "categoryId": 7818
+  },
+  {
+    "id": 9328109,
+    "image": "https://picsum.photos/id/220/300/300",
+    "index": 109,
+    "name": "Musaphics adipisicing aliqua",
+    "serial": "6737c5d3-aadb-499a-bfae-8a4e13f9146a",
+    "symbol": "SD",
+    "description": "Ad nostrud minim est officia exercitation irure amet voluptate culpa sint ipsum elit aliqua anim.",
+    "categoryId": 22558
+  },
+  {
+    "id": 5776110,
+    "image": "https://picsum.photos/id/221/300/300",
+    "index": 110,
+    "name": "Isologica est ex",
+    "serial": "900f34df-6030-4954-8b73-8719b2d12378",
+    "symbol": "XH",
+    "description": "Aliquip ut tempor occaecat deserunt.",
+    "categoryId": 66635
+  },
+  {
+    "id": 3699111,
+    "image": "https://picsum.photos/id/222/300/300",
+    "index": 111,
+    "name": "Amtas proident ullamco",
+    "serial": "7b7f63f8-9566-45f0-9769-b339ebcea9ab",
+    "symbol": "LD",
+    "description": "Esse ipsum mollit est commodo irure ea nisi nostrud adipisicing consectetur.",
+    "categoryId": 9924
+  },
+  {
+    "id": 9580112,
+    "image": "https://picsum.photos/id/223/300/300",
+    "index": 112,
+    "name": "Songbird cillum ad",
+    "serial": "6bd6e812-1dab-468b-82d3-df882b745968",
+    "symbol": "GF",
+    "description": "Laboris ullamco consequat qui cillum ullamco fugiat nisi eu sit aute mollit deserunt ipsum officia.",
+    "categoryId": 70199
+  },
+  {
+    "id": 3464113,
+    "image": "https://picsum.photos/id/224/300/300",
+    "index": 113,
+    "name": "Bitendrex excepteur sit",
+    "serial": "ee4a51dc-4472-484b-a49e-9f8d17a5edc4",
+    "symbol": "RR",
+    "description": "Enim enim occaecat anim pariatur ad consequat aliqua mollit consequat in laborum enim.",
+    "categoryId": 54875
+  },
+  {
+    "id": 4822114,
+    "image": "https://picsum.photos/id/225/300/300",
+    "index": 114,
+    "name": "Nurali ea veniam",
+    "serial": "b46dc4c1-580c-4342-94f1-81246fe6d6c5",
+    "symbol": "XR",
+    "description": "Amet eu pariatur cupidatat sint commodo consequat aute.",
+    "categoryId": 90564
+  },
+  {
+    "id": 3266115,
+    "image": "https://picsum.photos/id/226/300/300",
+    "index": 115,
+    "name": "Hivedom qui incididunt",
+    "serial": "9980b648-3bab-4970-b701-c97950ee95d3",
+    "symbol": "PO",
+    "description": "Elit qui Lorem exercitation in id id laboris proident.",
+    "categoryId": 49962
+  },
+  {
+    "id": 5271116,
+    "image": "https://picsum.photos/id/227/300/300",
+    "index": 116,
+    "name": "Geekol sit cillum",
+    "serial": "db5992ce-2985-49ec-ac14-60765b5b611b",
+    "symbol": "LD",
+    "description": "Incididunt fugiat dolore fugiat do ad do reprehenderit ipsum voluptate consequat cupidatat elit dolore.",
+    "categoryId": 9924
+  },
+  {
+    "id": 3901117,
+    "image": "https://picsum.photos/id/228/300/300",
+    "index": 117,
+    "name": "Rotodyne elit veniam",
+    "serial": "4617f9aa-b280-405b-97ab-e95dd8d8abe6",
+    "symbol": "QL",
+    "description": "Culpa aliquip id ea aliqua.",
+    "categoryId": 36579
+  },
+  {
+    "id": 3206118,
+    "image": "https://picsum.photos/id/229/300/300",
+    "index": 118,
+    "name": "Emtrac magna qui",
+    "serial": "5992ca54-8a40-4445-bc78-46abafccf744",
+    "symbol": "PO",
+    "description": "Enim ut laboris dolore dolore ad qui do.",
+    "categoryId": 25356
+  },
+  {
+    "id": 7791119,
+    "image": "https://picsum.photos/id/230/300/300",
+    "index": 119,
+    "name": "Qiao incididunt velit",
+    "serial": "b0b2e7d6-3fb1-4d17-97d1-e108281122da",
+    "symbol": "XH",
+    "description": "Ut occaecat fugiat est officia Lorem proident quis dolor ut culpa.",
+    "categoryId": 11352
+  },
+  {
+    "id": 9729120,
+    "image": "https://picsum.photos/id/231/300/300",
+    "index": 120,
+    "name": "Tellifly ut amet",
+    "serial": "6ca4f701-dfb2-48a1-b02f-e56323230ec9",
+    "symbol": "GF",
+    "description": "Deserunt ipsum sit sint ut mollit voluptate ipsum anim tempor duis qui deserunt.",
+    "categoryId": 75326
+  },
+  {
+    "id": 6158121,
+    "image": "https://picsum.photos/id/232/300/300",
+    "index": 121,
+    "name": "Accusage enim id",
+    "serial": "e8463d4e-1072-4f75-b1ec-3f8403db8af8",
+    "symbol": "ZS",
+    "description": "Esse ut laboris in sint amet nostrud esse labore esse fugiat incididunt exercitation consectetur.",
+    "categoryId": 49369
+  },
+  {
+    "id": 2833122,
+    "image": "https://picsum.photos/id/233/300/300",
+    "index": 122,
+    "name": "Comstar eiusmod veniam",
+    "serial": "91ae3c84-b5ad-4b40-80ff-a73fd5d7ae1d",
+    "symbol": "GF",
+    "description": "Nostrud velit ipsum cillum duis laboris in quis ea occaecat non anim cillum.",
+    "categoryId": 43883
+  },
+  {
+    "id": 1774123,
+    "image": "https://picsum.photos/id/234/300/300",
+    "index": 123,
+    "name": "Dogspa ut proident",
+    "serial": "629673e7-5003-46e6-902d-c52134b85e64",
+    "symbol": "GF",
+    "description": "Proident labore tempor laboris culpa voluptate.",
+    "categoryId": 60980
+  },
+  {
+    "id": 7381124,
+    "image": "https://picsum.photos/id/235/300/300",
+    "index": 124,
+    "name": "Pulze aliqua nulla",
+    "serial": "4dd2583d-cffe-4476-b8ce-a06cc3db56bf",
+    "symbol": "GF",
+    "description": "Proident veniam occaecat id voluptate.",
+    "categoryId": 75515
+  },
+  {
+    "id": 9439125,
+    "image": "https://picsum.photos/id/236/300/300",
+    "index": 125,
+    "name": "Earthwax ex ullamco",
+    "serial": "12fddc75-73ab-48c8-b61c-159e0c366742",
+    "symbol": "ZS",
+    "description": "Eiusmod laborum do nulla culpa deserunt fugiat quis quis cillum.",
+    "categoryId": 25860
+  },
+  {
+    "id": 1856126,
+    "image": "https://picsum.photos/id/237/300/300",
+    "index": 126,
+    "name": "Xleen aute labore",
+    "serial": "bb2d37f1-51f3-46b7-8cce-70ff2152c225",
+    "symbol": "GF",
+    "description": "Commodo minim qui velit consequat tempor labore aute minim commodo enim fugiat ea nostrud occaecat.",
+    "categoryId": 19946
+  },
+  {
+    "id": 3523127,
+    "image": "https://picsum.photos/id/238/300/300",
+    "index": 127,
+    "name": "Zeam aliquip laborum",
+    "serial": "2d1f9ae8-72be-49d3-b5fc-4d666b18b748",
+    "symbol": "XH",
+    "description": "Pariatur magna do eiusmod officia in nisi do adipisicing nisi.",
+    "categoryId": 96865
+  },
+  {
+    "id": 2125128,
+    "image": "https://picsum.photos/id/239/300/300",
+    "index": 128,
+    "name": "Digial incididunt dolore",
+    "serial": "cab35efe-fb27-495d-bde7-adde7af71483",
+    "symbol": "XH",
+    "description": "Qui officia sunt aliquip proident ullamco excepteur ad duis.",
+    "categoryId": 90564
+  },
+  {
+    "id": 8468129,
+    "image": "https://picsum.photos/id/240/300/300",
+    "index": 129,
+    "name": "Ronbert incididunt proident",
+    "serial": "f114b03d-6f2d-41c3-9080-d8ac46c7cef4",
+    "symbol": "LD",
+    "description": "Eu aliquip sunt esse nulla veniam laborum sunt nostrud culpa cupidatat.",
+    "categoryId": 35933
+  },
+  {
+    "id": 6305130,
+    "image": "https://picsum.photos/id/241/300/300",
+    "index": 130,
+    "name": "Oronoko consequat non",
+    "serial": "48c1d1ec-1fa4-4141-a602-25bdd0be6218",
+    "symbol": "XH",
+    "description": "Mollit sunt consequat exercitation deserunt non.",
+    "categoryId": 67291
+  },
+  {
+    "id": 8476131,
+    "image": "https://picsum.photos/id/242/300/300",
+    "index": 131,
+    "name": "Magnafone amet dolor",
+    "serial": "f2d22b37-08ff-466b-8996-aa33e59b73ce",
+    "symbol": "LD",
+    "description": "Laboris nulla magna excepteur pariatur aliquip.",
+    "categoryId": 62198
+  },
+  {
+    "id": 1341132,
+    "image": "https://picsum.photos/id/243/300/300",
+    "index": 132,
+    "name": "Talkola laborum dolor",
+    "serial": "24560891-d851-474b-a8da-40e45f86136d",
+    "symbol": "QL",
+    "description": "Cupidatat est laboris laborum eiusmod ad amet aliquip veniam minim mollit consectetur qui.",
+    "categoryId": 84776
+  },
+  {
+    "id": 7239133,
+    "image": "https://picsum.photos/id/244/300/300",
+    "index": 133,
+    "name": "Zidant ut magna",
+    "serial": "8f98cf72-62b0-435d-a092-e3f0e46ce254",
+    "symbol": "SD",
+    "description": "Irure esse excepteur tempor dolor labore quis sunt ea.",
+    "categoryId": 8055
+  },
+  {
+    "id": 2790134,
+    "image": "https://picsum.photos/id/245/300/300",
+    "index": 134,
+    "name": "Luxuria sit eu",
+    "serial": "952add5f-396f-43b5-8fb5-ae25b15c87c8",
+    "symbol": "XH",
+    "description": "Magna voluptate nisi aute ex id.",
+    "categoryId": 26659
+  },
+  {
+    "id": 8115135,
+    "image": "https://picsum.photos/id/246/300/300",
+    "index": 135,
+    "name": "Polaria esse fugiat",
+    "serial": "98112c34-6888-4f1f-8f48-8f474f87861b",
+    "symbol": "GF",
+    "description": "Id sit fugiat est enim.",
+    "categoryId": 32170
+  },
+  {
+    "id": 3430136,
+    "image": "https://picsum.photos/id/247/300/300",
+    "index": 136,
+    "name": "Rodemco aliqua veniam",
+    "serial": "1bb0e9d1-5172-46fb-a689-da49168b3304",
+    "symbol": "XR",
+    "description": "Ipsum cillum ex duis do consequat ea id do deserunt commodo dolor sunt magna.",
+    "categoryId": 6616
+  },
+  {
+    "id": 2036137,
+    "image": "https://picsum.photos/id/248/300/300",
+    "index": 137,
+    "name": "Thredz et eu",
+    "serial": "59ba8bce-bcf2-49e7-bb9c-f5c76dad4b7d",
+    "symbol": "QL",
+    "description": "Est adipisicing pariatur veniam ut nulla ea esse ut elit laboris et sit est.",
+    "categoryId": 7818
+  },
+  {
+    "id": 3039138,
+    "image": "https://picsum.photos/id/249/300/300",
+    "index": 138,
+    "name": "Krag eu ad",
+    "serial": "1874c660-af97-4cda-a074-83457a07419f",
+    "symbol": "PO",
+    "description": "Anim sunt do cillum ipsum dolore quis adipisicing reprehenderit.",
+    "categoryId": 57474
+  },
+  {
+    "id": 7210139,
+    "image": "https://picsum.photos/id/250/300/300",
+    "index": 139,
+    "name": "Dreamia consectetur pariatur",
+    "serial": "ebf357f9-8d84-47d3-b549-2431bdf387b0",
+    "symbol": "XH",
+    "description": "Dolore nulla consectetur fugiat amet tempor aliquip eu sint dolore.",
+    "categoryId": 34017
+  },
+  {
+    "id": 4967140,
+    "image": "https://picsum.photos/id/251/300/300",
+    "index": 140,
+    "name": "Chorizon ut reprehenderit",
+    "serial": "297f8c6b-637b-4d8a-8211-79c50589a5a2",
+    "symbol": "RR",
+    "description": "Ad excepteur est nisi incididunt adipisicing do nulla pariatur adipisicing.",
+    "categoryId": 78011
+  },
+  {
+    "id": 2451141,
+    "image": "https://picsum.photos/id/252/300/300",
+    "index": 141,
+    "name": "Codact dolore veniam",
+    "serial": "984f376d-d8db-42aa-ae5d-a49cda1fb9a6",
+    "symbol": "SD",
+    "description": "Do velit adipisicing occaecat quis adipisicing.",
+    "categoryId": 13821
+  },
+  {
+    "id": 1349142,
+    "image": "https://picsum.photos/id/253/300/300",
+    "index": 142,
+    "name": "Zinca qui duis",
+    "serial": "1807939e-7327-46fd-998b-1d1f8d9b1cec",
+    "symbol": "QL",
+    "description": "Veniam amet occaecat nulla eu in laborum culpa cillum elit aliqua.",
+    "categoryId": 96865
+  },
+  {
+    "id": 6712143,
+    "image": "https://picsum.photos/id/254/300/300",
+    "index": 143,
+    "name": "Zilodyne incididunt officia",
+    "serial": "3452839c-b186-4b02-b4b5-bfbb1adbbbdd",
+    "symbol": "RR",
+    "description": "Dolore cupidatat sit elit non anim id deserunt nulla deserunt nulla excepteur ex.",
+    "categoryId": 96865
+  },
+  {
+    "id": 7100144,
+    "image": "https://picsum.photos/id/255/300/300",
+    "index": 144,
+    "name": "Corepan aute laboris",
+    "serial": "9d57a20d-a908-4803-a1c1-3e38211ad124",
+    "symbol": "ME",
+    "description": "Dolor occaecat dolor non exercitation id velit excepteur sit magna tempor deserunt est adipisicing.",
+    "categoryId": 59568
+  },
+  {
+    "id": 9450145,
+    "image": "https://picsum.photos/id/256/300/300",
+    "index": 145,
+    "name": "Anocha Lorem Lorem",
+    "serial": "ad221167-ed36-4f8d-ad22-e58e2355586c",
+    "symbol": "ME",
+    "description": "Id reprehenderit elit incididunt in fugiat exercitation consectetur ad.",
+    "categoryId": 11352
+  },
+  {
+    "id": 6590146,
+    "image": "https://picsum.photos/id/257/300/300",
+    "index": 146,
+    "name": "Goko sunt nisi",
+    "serial": "39f36659-0acd-4606-9622-17a18d82efa6",
+    "symbol": "PO",
+    "description": "Sit minim nisi laborum consectetur tempor commodo et deserunt mollit minim pariatur labore commodo ut.",
+    "categoryId": 9924
+  },
+  {
+    "id": 9529147,
+    "image": "https://picsum.photos/id/258/300/300",
+    "index": 147,
+    "name": "Comtest aliquip excepteur",
+    "serial": "f1f878b8-7615-44aa-8b30-59893bed09da",
+    "symbol": "XH",
+    "description": "Laboris occaecat velit adipisicing in ex.",
+    "categoryId": 65048
+  },
+  {
+    "id": 9392148,
+    "image": "https://picsum.photos/id/259/300/300",
+    "index": 148,
+    "name": "Orbean ad voluptate",
+    "serial": "7d691d4b-eddd-49eb-a29d-e064f89f8577",
+    "symbol": "MS",
+    "description": "Labore sint laborum deserunt sint cillum irure commodo in id consectetur laboris id irure.",
+    "categoryId": 19946
+  },
+  {
+    "id": 6037149,
+    "image": "https://picsum.photos/id/260/300/300",
+    "index": 149,
+    "name": "Splinx fugiat sint",
+    "serial": "b676925e-cac3-44f7-b61a-ab891ada4b5e",
+    "symbol": "ZS",
+    "description": "Tempor irure mollit quis sint.",
+    "categoryId": 90088
+  },
+  {
+    "id": 4128150,
+    "image": "https://picsum.photos/id/261/300/300",
+    "index": 150,
+    "name": "Opticom est fugiat",
+    "serial": "94318eb7-41cd-4897-b698-518e7732cc92",
+    "symbol": "SD",
+    "description": "Pariatur ullamco sint irure consequat velit cupidatat ex cillum sint amet nulla incididunt mollit.",
+    "categoryId": 21324
+  },
+  {
+    "id": 9390151,
+    "image": "https://picsum.photos/id/262/300/300",
+    "index": 151,
+    "name": "Toyletry do ex",
+    "serial": "9fbcf340-161f-4faf-95e7-4354b8d86531",
+    "symbol": "LD",
+    "description": "Excepteur nulla nostrud incididunt tempor do nulla consectetur qui mollit et cillum nostrud commodo.",
+    "categoryId": 21324
+  },
+  {
+    "id": 5868152,
+    "image": "https://picsum.photos/id/263/300/300",
+    "index": 152,
+    "name": "Zaya voluptate tempor",
+    "serial": "0219e7b1-3027-48aa-82e2-d472bf3ff870",
+    "symbol": "ZS",
+    "description": "Occaecat irure elit tempor reprehenderit deserunt aliquip labore quis duis.",
+    "categoryId": 24236
+  },
+  {
+    "id": 9830153,
+    "image": "https://picsum.photos/id/264/300/300",
+    "index": 153,
+    "name": "Crustatia enim aliquip",
+    "serial": "218a23b6-5b36-4412-939a-f7de61fc7e96",
+    "symbol": "LD",
+    "description": "Anim qui est fugiat adipisicing excepteur et quis ipsum amet do.",
+    "categoryId": 3009
+  },
+  {
+    "id": 2130154,
+    "image": "https://picsum.photos/id/265/300/300",
+    "index": 154,
+    "name": "Marvane proident tempor",
+    "serial": "33baf826-e19b-495c-89c7-73c626f3efa3",
+    "symbol": "XR",
+    "description": "Irure eiusmod eu eiusmod duis.",
+    "categoryId": 70199
+  },
+  {
+    "id": 3381155,
+    "image": "https://picsum.photos/id/266/300/300",
+    "index": 155,
+    "name": "Roboid ea ut",
+    "serial": "42c42662-60fa-496f-b316-9a5d7824e984",
+    "symbol": "MS",
+    "description": "Nostrud excepteur occaecat tempor reprehenderit officia velit nisi ut exercitation.",
+    "categoryId": 99310
+  },
+  {
+    "id": 4933156,
+    "image": "https://picsum.photos/id/267/300/300",
+    "index": 156,
+    "name": "Ovolo ex sunt",
+    "serial": "1a2ada9e-6cc6-4979-bcb6-700c5d41114d",
+    "symbol": "SD",
+    "description": "Do minim reprehenderit ullamco aliqua.",
+    "categoryId": 56134
+  },
+  {
+    "id": 9336157,
+    "image": "https://picsum.photos/id/268/300/300",
+    "index": 157,
+    "name": "Fuelworks do veniam",
+    "serial": "6a282327-2d7b-4846-8eef-4d7a028a598b",
+    "symbol": "XH",
+    "description": "Ad velit proident irure magna qui sint.",
+    "categoryId": 90077
+  },
+  {
+    "id": 1791158,
+    "image": "https://picsum.photos/id/269/300/300",
+    "index": 158,
+    "name": "Isotronic laboris laborum",
+    "serial": "9da70a58-515b-4886-8369-83a411550e49",
+    "symbol": "MS",
+    "description": "Ad nulla quis enim ad anim nulla nisi quis aute non.",
+    "categoryId": 57378
+  },
+  {
+    "id": 9383159,
+    "image": "https://picsum.photos/id/270/300/300",
+    "index": 159,
+    "name": "Bitrex cupidatat id",
+    "serial": "2ddf26d5-6804-4a9b-a702-7e3de6aeadc8",
+    "symbol": "MS",
+    "description": "Non cillum proident id velit enim anim reprehenderit anim.",
+    "categoryId": 27884
+  },
+  {
+    "id": 9042160,
+    "image": "https://picsum.photos/id/271/300/300",
+    "index": 160,
+    "name": "Bostonic elit nostrud",
+    "serial": "9cd42e28-c445-4e3a-ae82-e3ce3dcbc38d",
+    "symbol": "GF",
+    "description": "Laborum culpa eu ullamco eiusmod officia ea sint ut tempor magna dolore laboris eu.",
+    "categoryId": 78494
+  },
+  {
+    "id": 8126161,
+    "image": "https://picsum.photos/id/272/300/300",
+    "index": 161,
+    "name": "Maxemia cupidatat commodo",
+    "serial": "e78f7398-6ef8-43ec-80e2-8bdadaeb12ca",
+    "symbol": "QL",
+    "description": "Anim proident duis eiusmod culpa.",
+    "categoryId": 21285
+  },
+  {
+    "id": 4921162,
+    "image": "https://picsum.photos/id/273/300/300",
+    "index": 162,
+    "name": "Intrawear incididunt duis",
+    "serial": "8a05ae0c-efa8-4352-924c-88af6e99ff0c",
+    "symbol": "QL",
+    "description": "Sunt fugiat mollit consequat ipsum velit excepteur consequat.",
+    "categoryId": 96040
+  },
+  {
+    "id": 8533163,
+    "image": "https://picsum.photos/id/274/300/300",
+    "index": 163,
+    "name": "Orbiflex labore nostrud",
+    "serial": "07749d73-e7a4-45b0-b09b-d5a315dcd151",
+    "symbol": "QL",
+    "description": "Pariatur proident sit nisi ipsum fugiat et pariatur sunt.",
+    "categoryId": 86755
+  },
+  {
+    "id": 2522164,
+    "image": "https://picsum.photos/id/275/300/300",
+    "index": 164,
+    "name": "Magmina aliqua ut",
+    "serial": "f8e742ef-0638-4a51-8213-5cf9999f2f44",
+    "symbol": "GF",
+    "description": "Reprehenderit elit veniam veniam minim ullamco et.",
+    "categoryId": 10947
+  },
+  {
+    "id": 7063165,
+    "image": "https://picsum.photos/id/276/300/300",
+    "index": 165,
+    "name": "Oulu ex sit",
+    "serial": "727eadbd-5884-49aa-82d9-d72be89de855",
+    "symbol": "PO",
+    "description": "Ex in anim adipisicing pariatur.",
+    "categoryId": 96929
+  },
+  {
+    "id": 8441166,
+    "image": "https://picsum.photos/id/277/300/300",
+    "index": 166,
+    "name": "Renovize elit commodo",
+    "serial": "cda875d9-4804-42ea-a003-6abc35242102",
+    "symbol": "PO",
+    "description": "Pariatur dolore laborum do id reprehenderit nostrud incididunt nisi nulla sit.",
+    "categoryId": 25356
+  },
+  {
+    "id": 7823167,
+    "image": "https://picsum.photos/id/278/300/300",
+    "index": 167,
+    "name": "Shepard exercitation dolore",
+    "serial": "f1381cff-ddf9-4588-b36f-e9b291b0e4fb",
+    "symbol": "PO",
+    "description": "Ad eu exercitation cupidatat cillum in sint eu quis laborum.",
+    "categoryId": 25356
+  },
+  {
+    "id": 6210168,
+    "image": "https://picsum.photos/id/279/300/300",
+    "index": 168,
+    "name": "Organica ut qui",
+    "serial": "ca6025e5-172c-4a7b-b4b0-e38a3d19736b",
+    "symbol": "SD",
+    "description": "Magna cillum sunt cillum occaecat quis tempor elit ea laboris Lorem duis.",
+    "categoryId": 22663
+  },
+  {
+    "id": 3815169,
+    "image": "https://picsum.photos/id/280/300/300",
+    "index": 169,
+    "name": "Lexicondo elit cupidatat",
+    "serial": "98dd5138-73d7-4220-a17b-dd0631b62f94",
+    "symbol": "QL",
+    "description": "Eiusmod nisi culpa ullamco eu reprehenderit pariatur.",
+    "categoryId": 87114
+  },
+  {
+    "id": 8640170,
+    "image": "https://picsum.photos/id/281/300/300",
+    "index": 170,
+    "name": "Realmo culpa aute",
+    "serial": "61dbce86-d527-41ec-9983-887b7db52fdc",
+    "symbol": "XH",
+    "description": "Fugiat aliqua exercitation commodo eu non.",
+    "categoryId": 65048
+  },
+  {
+    "id": 5461171,
+    "image": "https://picsum.photos/id/282/300/300",
+    "index": 171,
+    "name": "Niquent aute ea",
+    "serial": "19fa1054-04da-42e8-b72d-a50e138dc59e",
+    "symbol": "XR",
+    "description": "Tempor ullamco reprehenderit ea consequat cillum laborum laborum et eu pariatur commodo.",
+    "categoryId": 94220
+  },
+  {
+    "id": 7553172,
+    "image": "https://picsum.photos/id/283/300/300",
+    "index": 172,
+    "name": "Techmania laborum consectetur",
+    "serial": "c8543f54-e7e7-4a92-a6ce-84655c970d2f",
+    "symbol": "MS",
+    "description": "Quis minim et duis quis adipisicing minim id voluptate.",
+    "categoryId": 13772
+  },
+  {
+    "id": 8303173,
+    "image": "https://picsum.photos/id/284/300/300",
+    "index": 173,
+    "name": "Xeronk magna qui",
+    "serial": "71be92ae-8771-45d3-bbde-6dbc433ee6fe",
+    "symbol": "GF",
+    "description": "Ut veniam officia aliquip ad velit amet pariatur incididunt ipsum.",
+    "categoryId": 94220
+  },
+  {
+    "id": 3537174,
+    "image": "https://picsum.photos/id/285/300/300",
+    "index": 174,
+    "name": "Omnigog cillum reprehenderit",
+    "serial": "97c44b47-aa24-40af-9bf4-901443f02da6",
+    "symbol": "MS",
+    "description": "Officia ipsum eu duis dolore nulla do adipisicing labore occaecat.",
+    "categoryId": 6616
+  },
+  {
+    "id": 6198175,
+    "image": "https://picsum.photos/id/286/300/300",
+    "index": 175,
+    "name": "Medalert ea officia",
+    "serial": "c630e02c-c5be-46fd-8ed7-db9ff9f96c21",
+    "symbol": "PO",
+    "description": "Incididunt laborum consequat irure consectetur non laboris officia sunt exercitation aliquip anim.",
+    "categoryId": 66635
+  },
+  {
+    "id": 5610176,
+    "image": "https://picsum.photos/id/287/300/300",
+    "index": 176,
+    "name": "Gaptec reprehenderit duis",
+    "serial": "84c469a0-5a2b-4232-93ce-b0cca3d553c7",
+    "symbol": "ME",
+    "description": "Pariatur adipisicing dolore enim proident ex culpa occaecat reprehenderit aute et qui fugiat laborum.",
+    "categoryId": 24236
+  },
+  {
+    "id": 3570177,
+    "image": "https://picsum.photos/id/288/300/300",
+    "index": 177,
+    "name": "Talkalot adipisicing consectetur",
+    "serial": "12235919-5611-4e8c-bf9a-621f7d539d62",
+    "symbol": "GF",
+    "description": "Sit pariatur laboris commodo tempor.",
+    "categoryId": 99310
+  },
+  {
+    "id": 4846178,
+    "image": "https://picsum.photos/id/289/300/300",
+    "index": 178,
+    "name": "Comverges officia Lorem",
+    "serial": "cd55b58f-a695-4b5e-85b7-0a4cff8f3db6",
+    "symbol": "XH",
+    "description": "Duis magna consequat voluptate ipsum nostrud.",
+    "categoryId": 25356
+  },
+  {
+    "id": 8702179,
+    "image": "https://picsum.photos/id/290/300/300",
+    "index": 179,
+    "name": "Lotron proident laborum",
+    "serial": "59d0ab24-370a-48ce-87ca-672455411320",
+    "symbol": "GF",
+    "description": "Dolore enim enim ad occaecat voluptate reprehenderit cillum aliquip cupidatat.",
+    "categoryId": 75515
+  },
+  {
+    "id": 2310180,
+    "image": "https://picsum.photos/id/291/300/300",
+    "index": 180,
+    "name": "Viasia mollit exercitation",
+    "serial": "4758cf25-fddb-4fb2-b0c3-c55a5e1eaedc",
+    "symbol": "XR",
+    "description": "Pariatur proident mollit ut Lorem.",
+    "categoryId": 54875
+  },
+  {
+    "id": 7987181,
+    "image": "https://picsum.photos/id/292/300/300",
+    "index": 181,
+    "name": "Applideck duis aute",
+    "serial": "e5c77313-ce32-485b-af13-1873abe63126",
+    "symbol": "ME",
+    "description": "Quis incididunt in esse consectetur laboris culpa reprehenderit amet magna mollit do consequat adipisicing.",
+    "categoryId": 70199
+  },
+  {
+    "id": 6639182,
+    "image": "https://picsum.photos/id/293/300/300",
+    "index": 182,
+    "name": "Avenetro eu mollit",
+    "serial": "8a30bf71-486c-4c82-887b-6b61960d1dbd",
+    "symbol": "RR",
+    "description": "Laborum anim ex eiusmod aliquip cillum dolor voluptate Lorem laboris consectetur ullamco.",
+    "categoryId": 57378
+  },
+  {
+    "id": 3325183,
+    "image": "https://picsum.photos/id/294/300/300",
+    "index": 183,
+    "name": "Neptide Lorem nostrud",
+    "serial": "9cf7f47e-44c9-47a0-8058-13cfcd4594ee",
+    "symbol": "GF",
+    "description": "Lorem ad esse ea mollit irure.",
+    "categoryId": 96929
+  },
+  {
+    "id": 6869184,
+    "image": "https://picsum.photos/id/295/300/300",
+    "index": 184,
+    "name": "Comveyer minim eiusmod",
+    "serial": "0fe999e9-cbf5-4214-8670-07f41df1c201",
+    "symbol": "RR",
+    "description": "Laboris elit minim irure aliquip do fugiat fugiat quis enim consequat nostrud.",
+    "categoryId": 49962
+  },
+  {
+    "id": 9337185,
+    "image": "https://picsum.photos/id/296/300/300",
+    "index": 185,
+    "name": "Savvy aliqua ea",
+    "serial": "5a89b331-7202-4a7e-a457-bd72199e58b1",
+    "symbol": "MS",
+    "description": "Laboris Lorem non velit eu non.",
+    "categoryId": 37861
+  },
+  {
+    "id": 2718186,
+    "image": "https://picsum.photos/id/297/300/300",
+    "index": 186,
+    "name": "Barkarama exercitation aliqua",
+    "serial": "015ef5f2-ce90-45b8-9d33-69e1167186f9",
+    "symbol": "XH",
+    "description": "Commodo veniam et anim anim.",
+    "categoryId": 70199
+  },
+  {
+    "id": 9279187,
+    "image": "https://picsum.photos/id/298/300/300",
+    "index": 187,
+    "name": "Turnling aute ex",
+    "serial": "3748fddc-c801-4f9e-a646-dc13e73bb8ed",
+    "symbol": "QL",
+    "description": "Tempor ea aliqua labore in et ullamco.",
+    "categoryId": 78494
+  },
+  {
+    "id": 4354188,
+    "image": "https://picsum.photos/id/299/300/300",
+    "index": 188,
+    "name": "Updat sunt officia",
+    "serial": "c633a35e-f167-46e0-b631-9f3dafd0c142",
+    "symbol": "LD",
+    "description": "Nulla amet nulla in officia exercitation minim cillum non veniam nisi.",
+    "categoryId": 90088
+  },
+  {
+    "id": 3823189,
+    "image": "https://picsum.photos/id/300/300/300",
+    "index": 189,
+    "name": "Rameon aliqua dolor",
+    "serial": "6d84115e-7080-4487-abc5-351193f52a45",
+    "symbol": "XR",
+    "description": "Cillum ad est velit nulla exercitation velit excepteur aliquip do esse eu deserunt.",
+    "categoryId": 58319
+  },
+  {
+    "id": 5231190,
+    "image": "https://picsum.photos/id/301/300/300",
+    "index": 190,
+    "name": "Xylar nulla ullamco",
+    "serial": "f7ac84d5-84be-48cc-8b39-0ec34054ab1b",
+    "symbol": "XH",
+    "description": "Nisi enim qui nostrud id occaecat magna amet labore consequat.",
+    "categoryId": 11352
+  },
+  {
+    "id": 6377191,
+    "image": "https://picsum.photos/id/302/300/300",
+    "index": 191,
+    "name": "Pharmex Lorem amet",
+    "serial": "60d44d50-edaf-4de4-afc0-e3e48720b644",
+    "symbol": "RR",
+    "description": "Culpa sit quis ipsum sunt mollit ad.",
+    "categoryId": 67291
+  },
+  {
+    "id": 3259192,
+    "image": "https://picsum.photos/id/303/300/300",
+    "index": 192,
+    "name": "Waretel officia ullamco",
+    "serial": "94a761b3-7fbf-41bc-84dc-f5f964035fe8",
+    "symbol": "SD",
+    "description": "Labore nisi occaecat fugiat cupidatat non.",
+    "categoryId": 52449
+  },
+  {
+    "id": 8021193,
+    "image": "https://picsum.photos/id/304/300/300",
+    "index": 193,
+    "name": "Lyrichord occaecat aliquip",
+    "serial": "605d4e15-70be-4daa-ab65-febbe861da40",
+    "symbol": "QL",
+    "description": "Id eu aute ex sunt ipsum excepteur velit aute elit mollit eiusmod ad sit.",
+    "categoryId": 13821
+  },
+  {
+    "id": 9076194,
+    "image": "https://picsum.photos/id/305/300/300",
+    "index": 194,
+    "name": "Boink qui quis",
+    "serial": "47d0054b-40c3-428a-bd8b-77da692c2eb2",
+    "symbol": "XH",
+    "description": "Exercitation labore ipsum ad est qui cillum in officia labore quis mollit ad dolor.",
+    "categoryId": 46151
+  },
+  {
+    "id": 3505195,
+    "image": "https://picsum.photos/id/306/300/300",
+    "index": 195,
+    "name": "Dyno aliqua tempor",
+    "serial": "e140be01-1f6c-4b06-b878-7700fe31fd77",
+    "symbol": "GF",
+    "description": "Elit sunt nostrud tempor eu ut incididunt occaecat ea consequat est.",
+    "categoryId": 5563
+  },
+  {
+    "id": 9881196,
+    "image": "https://picsum.photos/id/307/300/300",
+    "index": 196,
+    "name": "Idealis consectetur labore",
+    "serial": "65b698bb-2aed-42e7-b3d8-4be76912d2bd",
+    "symbol": "GF",
+    "description": "Ad dolor ullamco velit velit aute id pariatur laborum.",
+    "categoryId": 64071
+  },
+  {
+    "id": 3670197,
+    "image": "https://picsum.photos/id/308/300/300",
+    "index": 197,
+    "name": "Norali mollit adipisicing",
+    "serial": "67e698b5-ef3d-4552-82c0-87186ffe696e",
+    "symbol": "LD",
+    "description": "Id veniam dolore quis sunt duis non id.",
+    "categoryId": 96865
+  },
+  {
+    "id": 3821198,
+    "image": "https://picsum.photos/id/309/300/300",
+    "index": 198,
+    "name": "Metroz irure magna",
+    "serial": "1f91c6cd-d363-42fc-b58b-b02590f1b1af",
+    "symbol": "MS",
+    "description": "Consequat nostrud non dolore consequat enim aliquip et sit aute eiusmod.",
+    "categoryId": 25530
+  },
+  {
+    "id": 7930199,
+    "image": "https://picsum.photos/id/310/300/300",
+    "index": 199,
+    "name": "Marqet elit do",
+    "serial": "ff4f8db7-00e2-4408-a4c5-6a72e080be01",
+    "symbol": "ZS",
+    "description": "Pariatur in sit irure nulla consequat nulla minim reprehenderit cupidatat ullamco voluptate.",
+    "categoryId": 75326
+  },
+  {
+    "id": 9601200,
+    "image": "https://picsum.photos/id/311/300/300",
+    "index": 200,
+    "name": "Digifad cupidatat mollit",
+    "serial": "45517503-3df8-4633-91c4-74e24389d011",
+    "symbol": "XR",
+    "description": "Officia deserunt consequat anim laborum do quis.",
+    "categoryId": 98366
+  },
+  {
+    "id": 4268201,
+    "image": "https://picsum.photos/id/312/300/300",
+    "index": 201,
+    "name": "Gallaxia anim incididunt",
+    "serial": "3953bcf5-4885-4f2c-a7d1-d21ab3fb8ef5",
+    "symbol": "GF",
+    "description": "Duis laboris duis consequat dolore aliqua.",
+    "categoryId": 14944
+  },
+  {
+    "id": 7276202,
+    "image": "https://picsum.photos/id/313/300/300",
+    "index": 202,
+    "name": "Isodrive eu magna",
+    "serial": "84e0c0f0-2e1f-4f1c-bf94-522b2bbe9a37",
+    "symbol": "RR",
+    "description": "Culpa incididunt eu deserunt aliqua pariatur dolore.",
+    "categoryId": 37861
+  },
+  {
+    "id": 4883203,
+    "image": "https://picsum.photos/id/314/300/300",
+    "index": 203,
+    "name": "Mobildata occaecat elit",
+    "serial": "efb9eaac-2339-4457-88c3-0f3706aeb72c",
+    "symbol": "XH",
+    "description": "Exercitation ea anim sunt amet aute consequat duis ad.",
+    "categoryId": 14944
+  },
+  {
+    "id": 5801204,
+    "image": "https://picsum.photos/id/315/300/300",
+    "index": 204,
+    "name": "Daycore laboris consequat",
+    "serial": "4430de10-1d65-417b-923c-23905391070d",
+    "symbol": "MS",
+    "description": "Ex cupidatat ut fugiat sunt excepteur irure enim aute ad tempor.",
+    "categoryId": 19946
+  },
+  {
+    "id": 9329205,
+    "image": "https://picsum.photos/id/316/300/300",
+    "index": 205,
+    "name": "Ezentia irure labore",
+    "serial": "5922184b-afe7-4147-8982-3226f657f809",
+    "symbol": "ME",
+    "description": "Fugiat enim tempor anim esse veniam cupidatat sunt Lorem id amet nisi occaecat.",
+    "categoryId": 39643
+  },
+  {
+    "id": 7329206,
+    "image": "https://picsum.photos/id/317/300/300",
+    "index": 206,
+    "name": "Enomen deserunt qui",
+    "serial": "e59df3a5-6872-4ad9-9047-b08740070045",
+    "symbol": "XH",
+    "description": "Fugiat irure incididunt ipsum culpa dolor qui esse id magna anim aliqua quis reprehenderit sunt.",
+    "categoryId": 96929
+  },
+  {
+    "id": 6471207,
+    "image": "https://picsum.photos/id/318/300/300",
+    "index": 207,
+    "name": "Vortexaco dolor mollit",
+    "serial": "887ff65e-ecea-48d3-a10e-7b33de15fbf5",
+    "symbol": "XR",
+    "description": "Laborum incididunt officia do velit ea labore minim consectetur.",
+    "categoryId": 1790
+  },
+  {
+    "id": 9847208,
+    "image": "https://picsum.photos/id/319/300/300",
+    "index": 208,
+    "name": "Grainspot eiusmod elit",
+    "serial": "e72893c3-47d6-42e6-a6f9-ae9d8a7c9d46",
+    "symbol": "MS",
+    "description": "Consequat tempor officia sit labore occaecat nisi sit.",
+    "categoryId": 96929
+  },
+  {
+    "id": 5613209,
+    "image": "https://picsum.photos/id/320/300/300",
+    "index": 209,
+    "name": "Zenco eu nulla",
+    "serial": "934b0482-947b-412d-a38a-e4df052ae2bd",
+    "symbol": "RR",
+    "description": "Nulla velit commodo enim deserunt.",
+    "categoryId": 70199
+  },
+  {
+    "id": 3897210,
+    "image": "https://picsum.photos/id/321/300/300",
+    "index": 210,
+    "name": "Geekmosis excepteur nulla",
+    "serial": "628f1ebc-a666-4012-8a31-ec1c516cf481",
+    "symbol": "PO",
+    "description": "Qui dolore laboris cupidatat ex ullamco in adipisicing culpa occaecat et.",
+    "categoryId": 25530
+  },
+  {
+    "id": 9627211,
+    "image": "https://picsum.photos/id/322/300/300",
+    "index": 211,
+    "name": "Utarian dolore deserunt",
+    "serial": "28078fea-ef44-4ed4-823f-f7f5d111575f",
+    "symbol": "RR",
+    "description": "Consequat reprehenderit pariatur id sint labore.",
+    "categoryId": 47095
+  },
+  {
+    "id": 3884212,
+    "image": "https://picsum.photos/id/323/300/300",
+    "index": 212,
+    "name": "Premiant laboris nisi",
+    "serial": "92855ac0-61bc-437b-9acb-5e72d0a135aa",
+    "symbol": "RR",
+    "description": "Incididunt incididunt non exercitation est non.",
+    "categoryId": 94220
+  },
+  {
+    "id": 7106213,
+    "image": "https://picsum.photos/id/324/300/300",
+    "index": 213,
+    "name": "Zizzle excepteur incididunt",
+    "serial": "e5ed64a2-6080-4b1a-b496-7e068fa970f4",
+    "symbol": "ME",
+    "description": "Ullamco labore ea proident amet occaecat est nostrud magna esse exercitation mollit dolore tempor.",
+    "categoryId": 8055
+  },
+  {
+    "id": 7340214,
+    "image": "https://picsum.photos/id/325/300/300",
+    "index": 214,
+    "name": "Songlines pariatur quis",
+    "serial": "71d246aa-a1a5-4cdb-b3ee-9aa453069f66",
+    "symbol": "SD",
+    "description": "In excepteur tempor excepteur minim labore duis eiusmod esse dolore non dolore adipisicing mollit.",
+    "categoryId": 25530
+  },
+  {
+    "id": 1406215,
+    "image": "https://picsum.photos/id/326/300/300",
+    "index": 215,
+    "name": "Navir Lorem reprehenderit",
+    "serial": "dd13d086-1c19-4821-bcfc-c8e29ec5fee0",
+    "symbol": "MS",
+    "description": "Et reprehenderit quis magna pariatur id nostrud velit aliqua magna officia.",
+    "categoryId": 57378
+  },
+  {
+    "id": 6835216,
+    "image": "https://picsum.photos/id/327/300/300",
+    "index": 216,
+    "name": "Junipoor cupidatat non",
+    "serial": "1a5edf0e-bfb6-4a78-bea3-122b1a7e78c2",
+    "symbol": "GF",
+    "description": "Ullamco reprehenderit esse officia laborum enim quis labore anim do amet.",
+    "categoryId": 49054
+  },
+  {
+    "id": 6640217,
+    "image": "https://picsum.photos/id/328/300/300",
+    "index": 217,
+    "name": "Portico aute cillum",
+    "serial": "ae91cfc0-d3ff-418d-87a2-4e5ac4b03491",
+    "symbol": "MS",
+    "description": "Excepteur sunt amet consequat cupidatat consectetur eiusmod.",
+    "categoryId": 62198
+  },
+  {
+    "id": 2680218,
+    "image": "https://picsum.photos/id/329/300/300",
+    "index": 218,
+    "name": "Atgen ex Lorem",
+    "serial": "ec432539-eb32-4c66-8c1c-3d4cdd9a0488",
+    "symbol": "QL",
+    "description": "Exercitation nulla et Lorem ad elit.",
+    "categoryId": 64071
+  },
+  {
+    "id": 2691219,
+    "image": "https://picsum.photos/id/330/300/300",
+    "index": 219,
+    "name": "Avit aute ea",
+    "serial": "702bb0c9-422b-4fe1-b4f7-be6bb61f6cce",
+    "symbol": "ZS",
+    "description": "Nulla fugiat nostrud labore dolor consectetur veniam duis qui minim enim minim aliquip magna consequat.",
+    "categoryId": 91145
+  },
+  {
+    "id": 5783220,
+    "image": "https://picsum.photos/id/331/300/300",
+    "index": 220,
+    "name": "Viagrand cillum exercitation",
+    "serial": "ce695849-4b04-4df5-b3d0-0242e41b3f84",
+    "symbol": "QL",
+    "description": "Dolor ullamco adipisicing deserunt quis incididunt.",
+    "categoryId": 8055
+  },
+  {
+    "id": 4023221,
+    "image": "https://picsum.photos/id/332/300/300",
+    "index": 221,
+    "name": "Izzby ea esse",
+    "serial": "14452f71-4525-4ee7-8351-4dedb069b2c1",
+    "symbol": "LD",
+    "description": "Veniam commodo Lorem do non sint occaecat do.",
+    "categoryId": 24236
+  },
+  {
+    "id": 3943222,
+    "image": "https://picsum.photos/id/333/300/300",
+    "index": 222,
+    "name": "Cablam anim eiusmod",
+    "serial": "99d4a94a-93ad-4326-a6cf-914a24a901ba",
+    "symbol": "GF",
+    "description": "Et culpa tempor culpa sunt anim.",
+    "categoryId": 54875
+  },
+  {
+    "id": 2374223,
+    "image": "https://picsum.photos/id/334/300/300",
+    "index": 223,
+    "name": "Boilcat est tempor",
+    "serial": "bcf5fa04-50ad-42b2-ad92-846d6c7877b6",
+    "symbol": "RR",
+    "description": "Lorem aliqua labore eu laborum voluptate officia ut pariatur.",
+    "categoryId": 35933
+  },
+  {
+    "id": 6107224,
+    "image": "https://picsum.photos/id/335/300/300",
+    "index": 224,
+    "name": "Rubadub est eiusmod",
+    "serial": "a5021335-2dae-47bc-8972-6af0d28e83ac",
+    "symbol": "RR",
+    "description": "Non elit sint est mollit labore labore incididunt dolore officia fugiat.",
+    "categoryId": 83587
+  },
+  {
+    "id": 7098225,
+    "image": "https://picsum.photos/id/336/300/300",
+    "index": 225,
+    "name": "Prosure nulla dolore",
+    "serial": "f5578725-ef45-48cf-aaa7-d19a30092c4c",
+    "symbol": "GF",
+    "description": "Quis nostrud fugiat minim dolor consequat non nisi non quis in ipsum ex.",
+    "categoryId": 96929
+  },
+  {
+    "id": 4556226,
+    "image": "https://picsum.photos/id/337/300/300",
+    "index": 226,
+    "name": "Kineticut et aute",
+    "serial": "195a355b-8f43-4484-a60a-8e74b75124ef",
+    "symbol": "PO",
+    "description": "Aute cupidatat exercitation voluptate ex commodo nisi commodo.",
+    "categoryId": 78011
+  },
+  {
+    "id": 9663227,
+    "image": "https://picsum.photos/id/338/300/300",
+    "index": 227,
+    "name": "Polarium magna consectetur",
+    "serial": "f505b7ef-aa78-47d4-9b34-e99e44154115",
+    "symbol": "XR",
+    "description": "Esse ad ullamco duis ullamco.",
+    "categoryId": 6681
+  },
+  {
+    "id": 4752228,
+    "image": "https://picsum.photos/id/339/300/300",
+    "index": 228,
+    "name": "Zillan proident esse",
+    "serial": "726138b4-7687-4810-b897-add0f14d0fef",
+    "symbol": "LD",
+    "description": "Amet cillum fugiat anim consectetur tempor commodo officia sint proident incididunt ea.",
+    "categoryId": 87114
+  },
+  {
+    "id": 4092229,
+    "image": "https://picsum.photos/id/340/300/300",
+    "index": 229,
+    "name": "Grok aliquip labore",
+    "serial": "370c5554-3324-4bf9-a88b-b0dfc6d59f91",
+    "symbol": "QL",
+    "description": "Occaecat anim cupidatat nisi velit dolore occaecat ea voluptate occaecat.",
+    "categoryId": 64071
+  },
+  {
+    "id": 1505230,
+    "image": "https://picsum.photos/id/341/300/300",
+    "index": 230,
+    "name": "Isologix enim laboris",
+    "serial": "4c2671b5-e991-4c7f-a8e8-90dffcf39a65",
+    "symbol": "LD",
+    "description": "Irure quis labore eiusmod aute nisi cillum elit nisi ullamco excepteur.",
+    "categoryId": 49054
+  },
+  {
+    "id": 2493231,
+    "image": "https://picsum.photos/id/342/300/300",
+    "index": 231,
+    "name": "Rooforia tempor id",
+    "serial": "fb92d911-df34-4c6a-aee4-1bf7ee1fc967",
+    "symbol": "ME",
+    "description": "Cupidatat aliquip deserunt excepteur nulla mollit velit laborum.",
+    "categoryId": 18728
+  },
+  {
+    "id": 5767232,
+    "image": "https://picsum.photos/id/343/300/300",
+    "index": 232,
+    "name": "Zoinage sint esse",
+    "serial": "c8a72291-792d-4a6b-b419-36e0032260d3",
+    "symbol": "GF",
+    "description": "Esse occaecat id qui eiusmod adipisicing.",
+    "categoryId": 87114
+  },
+  {
+    "id": 8341233,
+    "image": "https://picsum.photos/id/344/300/300",
+    "index": 233,
+    "name": "Softmicro Lorem duis",
+    "serial": "465a16e9-6ef3-4fdc-a943-03468729a306",
+    "symbol": "SD",
+    "description": "Tempor voluptate fugiat do velit nostrud.",
+    "categoryId": 96040
+  },
+  {
+    "id": 4942234,
+    "image": "https://picsum.photos/id/345/300/300",
+    "index": 234,
+    "name": "Knowlysis non tempor",
+    "serial": "fe2e4a69-cd51-4873-a4a6-86beb2793183",
+    "symbol": "XR",
+    "description": "Incididunt sint cupidatat dolore ut sint fugiat incididunt laboris qui mollit reprehenderit.",
+    "categoryId": 22653
+  },
+  {
+    "id": 9130235,
+    "image": "https://picsum.photos/id/346/300/300",
+    "index": 235,
+    "name": "Phormula eiusmod duis",
+    "serial": "5468120d-ffe7-453d-b835-5b7b401f315f",
+    "symbol": "MS",
+    "description": "Ex pariatur ullamco qui veniam in dolore eiusmod dolore anim irure.",
+    "categoryId": 29973
+  },
+  {
+    "id": 1883236,
+    "image": "https://picsum.photos/id/347/300/300",
+    "index": 236,
+    "name": "Multiflex laboris velit",
+    "serial": "e81e2f15-8b3b-4209-ad5f-281ff6ad1b87",
+    "symbol": "QL",
+    "description": "Labore ad dolor irure dolor.",
+    "categoryId": 21285
+  },
+  {
+    "id": 9411237,
+    "image": "https://picsum.photos/id/348/300/300",
+    "index": 237,
+    "name": "Centrexin non esse",
+    "serial": "11373474-fc5c-4191-9ebe-67dd7bf233d5",
+    "symbol": "GF",
+    "description": "Eiusmod fugiat magna voluptate ullamco adipisicing elit anim incididunt.",
+    "categoryId": 79325
+  },
+  {
+    "id": 2605238,
+    "image": "https://picsum.photos/id/349/300/300",
+    "index": 238,
+    "name": "Sustenza sint quis",
+    "serial": "9d871948-4793-4bec-a4bc-f04c248b7979",
+    "symbol": "PO",
+    "description": "Dolore veniam enim id magna non proident in fugiat sit veniam ut.",
+    "categoryId": 22558
+  },
+  {
+    "id": 9396239,
+    "image": "https://picsum.photos/id/350/300/300",
+    "index": 239,
+    "name": "Eplosion laborum velit",
+    "serial": "cc4e0bfb-21b3-465e-9431-96df27f1a725",
+    "symbol": "ME",
+    "description": "Culpa fugiat adipisicing ullamco occaecat nostrud irure.",
+    "categoryId": 22663
+  },
+  {
+    "id": 3907240,
+    "image": "https://picsum.photos/id/351/300/300",
+    "index": 240,
+    "name": "Geoforma labore qui",
+    "serial": "2a65542a-9c4e-4edc-91fa-0fe604669621",
+    "symbol": "XH",
+    "description": "Esse quis ea ipsum pariatur.",
+    "categoryId": 39690
+  },
+  {
+    "id": 5832241,
+    "image": "https://picsum.photos/id/352/300/300",
+    "index": 241,
+    "name": "Orbin consequat cupidatat",
+    "serial": "4d0ef3c8-1116-40de-bd2f-427dab6e1b04",
+    "symbol": "SD",
+    "description": "Fugiat tempor aliqua amet fugiat elit ea est cillum et cillum reprehenderit.",
+    "categoryId": 99131
+  },
+  {
+    "id": 8848242,
+    "image": "https://picsum.photos/id/353/300/300",
+    "index": 242,
+    "name": "Koffee sint tempor",
+    "serial": "d34a41e0-6808-400f-9e18-4e69c9ea650c",
+    "symbol": "SD",
+    "description": "Labore dolore elit sint nostrud qui minim quis esse deserunt nostrud cupidatat do aute.",
+    "categoryId": 72027
+  },
+  {
+    "id": 7679243,
+    "image": "https://picsum.photos/id/354/300/300",
+    "index": 243,
+    "name": "Eventage quis eu",
+    "serial": "c652f455-152a-4bf8-9a22-ca969ba5a4a4",
+    "symbol": "QL",
+    "description": "Excepteur consectetur eu nisi in sit duis ea nulla nostrud reprehenderit labore laboris consequat.",
+    "categoryId": 26659
+  },
+  {
+    "id": 7749244,
+    "image": "https://picsum.photos/id/355/300/300",
+    "index": 244,
+    "name": "Lumbrex dolor enim",
+    "serial": "cc1e0734-5572-4325-b9f7-f2fa6668ece7",
+    "symbol": "ZS",
+    "description": "Ut nulla nostrud ea proident eiusmod quis non ut aliquip occaecat laborum aute.",
+    "categoryId": 83587
+  },
+  {
+    "id": 8431245,
+    "image": "https://picsum.photos/id/356/300/300",
+    "index": 245,
+    "name": "Assitia occaecat irure",
+    "serial": "7e493f55-b310-4345-98be-6abec8b67c69",
+    "symbol": "ZS",
+    "description": "Reprehenderit ut esse laborum duis non.",
+    "categoryId": 26659
+  },
+  {
+    "id": 4410246,
+    "image": "https://picsum.photos/id/357/300/300",
+    "index": 246,
+    "name": "Yogasm reprehenderit ea",
+    "serial": "aa308ef6-b69e-4143-92e6-2ed11a4b59e8",
+    "symbol": "XH",
+    "description": "Mollit deserunt qui reprehenderit incididunt enim ut.",
+    "categoryId": 5532
+  },
+  {
+    "id": 5046247,
+    "image": "https://picsum.photos/id/358/300/300",
+    "index": 247,
+    "name": "Andershun nulla cupidatat",
+    "serial": "648a8f24-5e6a-45b5-976b-c6c1935bca32",
+    "symbol": "SD",
+    "description": "Ipsum amet non cupidatat anim culpa amet duis.",
+    "categoryId": 68712
+  },
+  {
+    "id": 9422248,
+    "image": "https://picsum.photos/id/359/300/300",
+    "index": 248,
+    "name": "Columella dolore consectetur",
+    "serial": "3d619686-8a52-4cfd-9c2e-0ab4df89ef06",
+    "symbol": "LD",
+    "description": "Amet consectetur occaecat ullamco sunt reprehenderit consequat nostrud enim sit.",
+    "categoryId": 98366
+  },
+  {
+    "id": 1160249,
+    "image": "https://picsum.photos/id/360/300/300",
+    "index": 249,
+    "name": "Amtap consectetur elit",
+    "serial": "fe63f5fd-a6b9-4eec-ac40-cffaf152826e",
+    "symbol": "SD",
+    "description": "Quis qui elit nulla velit anim laborum duis est.",
+    "categoryId": 79325
+  },
+  {
+    "id": 7409250,
+    "image": "https://picsum.photos/id/361/300/300",
+    "index": 250,
+    "name": "Ziggles adipisicing adipisicing",
+    "serial": "1da8f2d1-615a-416a-8156-3af40aec3cb0",
+    "symbol": "LD",
+    "description": "Deserunt do veniam Lorem cillum tempor aute veniam.",
+    "categoryId": 21324
+  },
+  {
+    "id": 7947251,
+    "image": "https://picsum.photos/id/362/300/300",
+    "index": 251,
+    "name": "Aclima deserunt Lorem",
+    "serial": "71c1aa2e-54d3-415e-bc55-8ae633adf039",
+    "symbol": "PO",
+    "description": "Deserunt mollit pariatur in ex veniam reprehenderit ea amet ea.",
+    "categoryId": 26382
+  },
+  {
+    "id": 2580252,
+    "image": "https://picsum.photos/id/363/300/300",
+    "index": 252,
+    "name": "Extragene ipsum ullamco",
+    "serial": "6e34fa3a-4c12-44de-874f-acdfe6323bf2",
+    "symbol": "QL",
+    "description": "Reprehenderit quis incididunt sunt velit anim ad amet amet enim.",
+    "categoryId": 20739
+  },
+  {
+    "id": 7810253,
+    "image": "https://picsum.photos/id/364/300/300",
+    "index": 253,
+    "name": "Dentrex nulla est",
+    "serial": "2087fa4f-cf23-4975-8b99-8564b5755fc4",
+    "symbol": "ZS",
+    "description": "Ipsum occaecat reprehenderit ut deserunt duis deserunt id eu ad.",
+    "categoryId": 75515
+  },
+  {
+    "id": 8521254,
+    "image": "https://picsum.photos/id/365/300/300",
+    "index": 254,
+    "name": "Exoswitch officia ex",
+    "serial": "52d0a2a4-1579-4b13-a5b0-26a09a78ecb7",
+    "symbol": "RR",
+    "description": "Ex excepteur laborum aute adipisicing quis esse sint consequat id amet id pariatur.",
+    "categoryId": 29341
+  },
+  {
+    "id": 7743255,
+    "image": "https://picsum.photos/id/366/300/300",
+    "index": 255,
+    "name": "Newcube culpa excepteur",
+    "serial": "002e1267-0482-4f93-888a-68b22793158e",
+    "symbol": "LD",
+    "description": "Eiusmod tempor adipisicing ullamco proident nostrud laborum sint.",
+    "categoryId": 3009
+  },
+  {
+    "id": 6387256,
+    "image": "https://picsum.photos/id/367/300/300",
+    "index": 256,
+    "name": "Geoform velit nisi",
+    "serial": "bc218f12-9a84-469d-afb9-a28b516dc996",
+    "symbol": "MS",
+    "description": "Irure laboris sint voluptate ad cupidatat ex laborum pariatur ipsum.",
+    "categoryId": 21324
+  },
+  {
+    "id": 6212257,
+    "image": "https://picsum.photos/id/368/300/300",
+    "index": 257,
+    "name": "Anivet exercitation anim",
+    "serial": "2136fbd5-512e-4a43-8729-e81c1551dca1",
+    "symbol": "QL",
+    "description": "Aliquip adipisicing laboris consequat pariatur laboris aliqua laborum id.",
+    "categoryId": 20739
+  },
+  {
+    "id": 8688258,
+    "image": "https://picsum.photos/id/369/300/300",
+    "index": 258,
+    "name": "Orbalix occaecat reprehenderit",
+    "serial": "92a1b2b5-e564-48cc-a2ae-b407f55c8b3e",
+    "symbol": "XH",
+    "description": "Et amet in non ad velit dolor quis consectetur.",
+    "categoryId": 34017
+  },
+  {
+    "id": 5363259,
+    "image": "https://picsum.photos/id/370/300/300",
+    "index": 259,
+    "name": "Assurity adipisicing pariatur",
+    "serial": "7f8e4611-0b21-4186-85f0-e817a7d2788a",
+    "symbol": "GF",
+    "description": "Elit est consectetur Lorem nulla ex consequat nisi fugiat labore minim aliqua cillum sint consectetur.",
+    "categoryId": 26382
+  },
+  {
+    "id": 6659260,
+    "image": "https://picsum.photos/id/371/300/300",
+    "index": 260,
+    "name": "Podunk sit irure",
+    "serial": "2ad5e5e0-3c86-4fcc-9e20-d3a312e1100e",
+    "symbol": "XH",
+    "description": "Voluptate ea eu labore aliquip incididunt excepteur.",
+    "categoryId": 67291
+  },
+  {
+    "id": 9726261,
+    "image": "https://picsum.photos/id/372/300/300",
+    "index": 261,
+    "name": "Ultrimax non consectetur",
+    "serial": "f08ba3d6-4b6a-41aa-b4bd-edeb8ddfce44",
+    "symbol": "LD",
+    "description": "Commodo mollit sit reprehenderit est culpa.",
+    "categoryId": 49962
+  },
+  {
+    "id": 2107262,
+    "image": "https://picsum.photos/id/373/300/300",
+    "index": 262,
+    "name": "Radiantix consectetur nisi",
+    "serial": "28128989-4f8e-45e8-80d5-3cc2f3d8bcef",
+    "symbol": "XH",
+    "description": "Aute aute exercitation veniam ea reprehenderit magna ullamco cillum amet duis laboris.",
+    "categoryId": 25530
+  },
+  {
+    "id": 6998263,
+    "image": "https://picsum.photos/id/374/300/300",
+    "index": 263,
+    "name": "Multron irure excepteur",
+    "serial": "585ab9cb-ed83-4029-af4e-bbcda05d07ed",
+    "symbol": "GF",
+    "description": "Aliquip nostrud pariatur nisi id minim occaecat mollit fugiat nulla.",
+    "categoryId": 3937
+  },
+  {
+    "id": 2739264,
+    "image": "https://picsum.photos/id/375/300/300",
+    "index": 264,
+    "name": "Vitricomp labore consectetur",
+    "serial": "41734c1c-2da8-46a4-9fd5-883b472dcd2d",
+    "symbol": "QL",
+    "description": "Adipisicing ad sunt minim do ea culpa nisi qui ullamco.",
+    "categoryId": 92713
+  },
+  {
+    "id": 8437265,
+    "image": "https://picsum.photos/id/376/300/300",
+    "index": 265,
+    "name": "Comstruct ipsum aute",
+    "serial": "7742ea84-6ed1-477f-8ee7-991ee0bc1af5",
+    "symbol": "LD",
+    "description": "Officia exercitation deserunt adipisicing commodo tempor qui amet duis culpa excepteur.",
+    "categoryId": 62386
+  },
+  {
+    "id": 8053266,
+    "image": "https://picsum.photos/id/377/300/300",
+    "index": 266,
+    "name": "Elemantra commodo officia",
+    "serial": "e5c5fadb-0d51-42c6-93bc-590c53549ace",
+    "symbol": "ME",
+    "description": "Non in pariatur veniam sit eiusmod.",
+    "categoryId": 25530
+  },
+  {
+    "id": 8456267,
+    "image": "https://picsum.photos/id/378/300/300",
+    "index": 267,
+    "name": "Buzzness irure ex",
+    "serial": "3b240f24-be78-4489-b844-33e5b4755dd2",
+    "symbol": "RR",
+    "description": "Magna aliquip ex in in esse exercitation officia nulla proident do cupidatat ea.",
+    "categoryId": 39923
+  },
+  {
+    "id": 3591268,
+    "image": "https://picsum.photos/id/379/300/300",
+    "index": 268,
+    "name": "Glasstep consequat duis",
+    "serial": "e0f0bdc4-75f1-48a6-9683-e77101c577b8",
+    "symbol": "LD",
+    "description": "Eu commodo Lorem ea voluptate Lorem irure magna.",
+    "categoryId": 90564
+  },
+  {
+    "id": 1880269,
+    "image": "https://picsum.photos/id/380/300/300",
+    "index": 269,
+    "name": "Bicol ut ipsum",
+    "serial": "5686d1c1-0968-450e-b73c-00a429166a10",
+    "symbol": "QL",
+    "description": "Pariatur adipisicing nostrud anim consequat velit irure minim duis Lorem reprehenderit.",
+    "categoryId": 39643
+  },
+  {
+    "id": 1685270,
+    "image": "https://picsum.photos/id/381/300/300",
+    "index": 270,
+    "name": "Springbee commodo ea",
+    "serial": "b3085381-9d48-4e85-9be3-1f00c558a9b9",
+    "symbol": "ZS",
+    "description": "Tempor officia irure ut nulla.",
+    "categoryId": 90088
+  },
+  {
+    "id": 2038271,
+    "image": "https://picsum.photos/id/382/300/300",
+    "index": 271,
+    "name": "Hairport pariatur quis",
+    "serial": "ec378c0b-470e-47d2-90ae-73082aa1971e",
+    "symbol": "MS",
+    "description": "Cillum ullamco culpa sunt magna esse magna reprehenderit ad nulla.",
+    "categoryId": 13821
+  },
+  {
+    "id": 1028272,
+    "image": "https://picsum.photos/id/383/300/300",
+    "index": 272,
+    "name": "Buzzopia qui consectetur",
+    "serial": "6d25e04f-1dd8-45e5-8b5a-bb3098172a14",
+    "symbol": "QL",
+    "description": "Voluptate aliquip reprehenderit duis ipsum occaecat minim aliqua consectetur non tempor.",
+    "categoryId": 75515
+  },
+  {
+    "id": 3792273,
+    "image": "https://picsum.photos/id/384/300/300",
+    "index": 273,
+    "name": "Duflex irure aliqua",
+    "serial": "873ce805-83bf-42d9-bd3a-cb4ef181efa7",
+    "symbol": "RR",
+    "description": "Consequat incididunt et fugiat fugiat amet.",
+    "categoryId": 49369
+  },
+  {
+    "id": 1300274,
+    "image": "https://picsum.photos/id/385/300/300",
+    "index": 274,
+    "name": "Kongle occaecat pariatur",
+    "serial": "cc18ced4-588c-41af-aca0-7639e0e3dc51",
+    "symbol": "XH",
+    "description": "Consectetur et laboris sunt non ipsum consectetur ad ipsum duis cupidatat id veniam.",
+    "categoryId": 46151
+  },
+  {
+    "id": 6768275,
+    "image": "https://picsum.photos/id/386/300/300",
+    "index": 275,
+    "name": "Translink esse id",
+    "serial": "b35604c0-729d-49c6-8216-a82aa9c721e1",
+    "symbol": "XH",
+    "description": "Id laborum et mollit adipisicing tempor eu.",
+    "categoryId": 72842
+  },
+  {
+    "id": 4616276,
+    "image": "https://picsum.photos/id/387/300/300",
+    "index": 276,
+    "name": "Voipa proident proident",
+    "serial": "80cbc10c-9d4f-4591-9308-4e8f225caa93",
+    "symbol": "XH",
+    "description": "Ad non laborum tempor quis consequat mollit incididunt consequat fugiat exercitation non.",
+    "categoryId": 9924
+  },
+  {
+    "id": 8625277,
+    "image": "https://picsum.photos/id/388/300/300",
+    "index": 277,
+    "name": "Medmex sint ullamco",
+    "serial": "fdbbd493-76cb-4232-ba56-3259fffb78be",
+    "symbol": "ZS",
+    "description": "Pariatur ullamco qui officia mollit officia elit commodo sint et in qui esse.",
+    "categoryId": 3009
+  },
+  {
+    "id": 6025278,
+    "image": "https://picsum.photos/id/389/300/300",
+    "index": 278,
+    "name": "Cosmetex duis duis",
+    "serial": "2af0eb0e-5c8c-48d8-baa6-c6a665538a46",
+    "symbol": "RR",
+    "description": "Lorem enim sit ullamco voluptate id occaecat amet ipsum adipisicing voluptate ad est sit.",
+    "categoryId": 3009
+  },
+  {
+    "id": 8682279,
+    "image": "https://picsum.photos/id/390/300/300",
+    "index": 279,
+    "name": "Opticall est fugiat",
+    "serial": "83ea4747-2aec-4034-98f3-e8dee7e1173d",
+    "symbol": "RR",
+    "description": "Aliquip consectetur minim eiusmod consectetur aute sint sint elit.",
+    "categoryId": 49054
+  },
+  {
+    "id": 7010280,
+    "image": "https://picsum.photos/id/391/300/300",
+    "index": 280,
+    "name": "Fiberox nulla mollit",
+    "serial": "57b82810-52ed-4c05-bcdc-86c9372d470b",
+    "symbol": "ME",
+    "description": "Est voluptate laboris ipsum fugiat occaecat nisi.",
+    "categoryId": 72027
+  },
+  {
+    "id": 9445281,
+    "image": "https://picsum.photos/id/392/300/300",
+    "index": 281,
+    "name": "Pyramax aute cupidatat",
+    "serial": "4c892ec2-8794-4543-9312-3405ec4b4f66",
+    "symbol": "MS",
+    "description": "Incididunt aliqua culpa occaecat duis.",
+    "categoryId": 43657
+  },
+  {
+    "id": 6984282,
+    "image": "https://picsum.photos/id/393/300/300",
+    "index": 282,
+    "name": "Ersum duis eiusmod",
+    "serial": "ed6f0a95-d593-4b59-b48e-74457953044d",
+    "symbol": "ZS",
+    "description": "Deserunt eu voluptate in laboris nulla mollit voluptate ipsum.",
+    "categoryId": 25522
+  },
+  {
+    "id": 1266283,
+    "image": "https://picsum.photos/id/394/300/300",
+    "index": 283,
+    "name": "Zensor in consectetur",
+    "serial": "4d0a5420-2423-492d-b423-23a4617270f0",
+    "symbol": "GF",
+    "description": "Veniam commodo fugiat id in fugiat quis minim duis anim.",
+    "categoryId": 57378
+  },
+  {
+    "id": 7882284,
+    "image": "https://picsum.photos/id/395/300/300",
+    "index": 284,
+    "name": "Quonata sint amet",
+    "serial": "7f41665d-b22f-40f6-b12c-c908a0203c2f",
+    "symbol": "PO",
+    "description": "Reprehenderit nulla labore id exercitation pariatur commodo Lorem in ullamco est dolore.",
+    "categoryId": 63032
+  },
+  {
+    "id": 3013285,
+    "image": "https://picsum.photos/id/396/300/300",
+    "index": 285,
+    "name": "Coash ad enim",
+    "serial": "9f4b4b7c-718c-458c-a23a-36eaaf1f5786",
+    "symbol": "QL",
+    "description": "Eiusmod exercitation consequat Lorem minim commodo.",
+    "categoryId": 63032
+  },
+  {
+    "id": 3054286,
+    "image": "https://picsum.photos/id/397/300/300",
+    "index": 286,
+    "name": "Tsunamia ex proident",
+    "serial": "f12ab267-36a6-48d1-b5d9-2f04022bcc65",
+    "symbol": "QL",
+    "description": "Enim est anim velit do do reprehenderit laborum eiusmod.",
+    "categoryId": 47095
+  },
+  {
+    "id": 7019287,
+    "image": "https://picsum.photos/id/398/300/300",
+    "index": 287,
+    "name": "Tetak consectetur dolor",
+    "serial": "81df5e17-df6a-4319-a5bf-818203126e74",
+    "symbol": "ZS",
+    "description": "Et deserunt occaecat incididunt ad id irure enim.",
+    "categoryId": 64071
+  },
+  {
+    "id": 3408288,
+    "image": "https://picsum.photos/id/399/300/300",
+    "index": 288,
+    "name": "Collaire minim ex",
+    "serial": "bbb47755-9ba9-4de8-a2b9-68f86ad190af",
+    "symbol": "QL",
+    "description": "Sit aliquip voluptate duis sit ex incididunt consequat commodo proident.",
+    "categoryId": 9924
+  },
+  {
+    "id": 9934289,
+    "image": "https://picsum.photos/id/400/300/300",
+    "index": 289,
+    "name": "Geeky laborum duis",
+    "serial": "ab759c74-e1ab-4cfa-acab-502c0b978cd9",
+    "symbol": "QL",
+    "description": "Et amet nisi est consequat velit.",
+    "categoryId": 37861
+  },
+  {
+    "id": 3362290,
+    "image": "https://picsum.photos/id/401/300/300",
+    "index": 290,
+    "name": "Limozen laborum amet",
+    "serial": "5826ac2d-6007-4443-81d2-c0d6bb0c6736",
+    "symbol": "ZS",
+    "description": "Ullamco ea sint tempor non aliqua dolor ullamco ullamco enim laborum et.",
+    "categoryId": 22663
+  },
+  {
+    "id": 4855291,
+    "image": "https://picsum.photos/id/402/300/300",
+    "index": 291,
+    "name": "Parleynet deserunt aliqua",
+    "serial": "00f22253-caad-467f-8c1c-4ed9a428f278",
+    "symbol": "QL",
+    "description": "Tempor ex pariatur occaecat amet culpa et ut do aliqua ex commodo.",
+    "categoryId": 3009
+  },
+  {
+    "id": 5685292,
+    "image": "https://picsum.photos/id/403/300/300",
+    "index": 292,
+    "name": "Zilphur laboris aliquip",
+    "serial": "ab6cbf1f-7f88-4a06-920d-92967ff762b9",
+    "symbol": "XH",
+    "description": "Id laborum cillum officia aliqua.",
+    "categoryId": 19946
+  },
+  {
+    "id": 7023293,
+    "image": "https://picsum.photos/id/404/300/300",
+    "index": 293,
+    "name": "Cubix aliqua ad",
+    "serial": "c5f0ac1a-5d08-48e6-bee7-1f2758233425",
+    "symbol": "ME",
+    "description": "Nostrud proident consectetur consequat est eu veniam deserunt ea excepteur in laborum esse amet exercitation.",
+    "categoryId": 90077
+  },
+  {
+    "id": 9832294,
+    "image": "https://picsum.photos/id/405/300/300",
+    "index": 294,
+    "name": "Zoid non ea",
+    "serial": "7ad4138f-097a-4f04-899e-d3e5b98d1447",
+    "symbol": "XH",
+    "description": "Occaecat proident eiusmod nisi commodo ullamco officia pariatur ullamco esse ipsum cupidatat.",
+    "categoryId": 5563
+  },
+  {
+    "id": 9226295,
+    "image": "https://picsum.photos/id/406/300/300",
+    "index": 295,
+    "name": "Deepends sit eiusmod",
+    "serial": "e19d5c6d-b13e-4a45-92a4-e75d594bda4e",
+    "symbol": "ME",
+    "description": "Exercitation fugiat sint tempor do duis pariatur anim incididunt tempor minim elit duis amet.",
+    "categoryId": 9924
+  },
+  {
+    "id": 4080296,
+    "image": "https://picsum.photos/id/407/300/300",
+    "index": 296,
+    "name": "Grupoli qui nisi",
+    "serial": "8b8a906f-a357-4248-9586-d6134cc66bdf",
+    "symbol": "GF",
+    "description": "Nisi esse irure occaecat aliqua sint quis Lorem tempor deserunt in id.",
+    "categoryId": 75515
+  },
+  {
+    "id": 2063297,
+    "image": "https://picsum.photos/id/408/300/300",
+    "index": 297,
+    "name": "Gazak laborum in",
+    "serial": "31ba07fb-6337-4d6a-b0b1-c273a6d7624d",
+    "symbol": "ME",
+    "description": "Minim magna mollit est velit occaecat deserunt esse magna.",
+    "categoryId": 11352
+  },
+  {
+    "id": 3073298,
+    "image": "https://picsum.photos/id/409/300/300",
+    "index": 298,
+    "name": "Overfork ipsum mollit",
+    "serial": "cc170dfd-b7ac-4f40-976c-dea7a621c83f",
+    "symbol": "RR",
+    "description": "Cillum cillum esse amet quis occaecat esse velit laborum quis proident.",
+    "categoryId": 13821
+  },
+  {
+    "id": 3206299,
+    "image": "https://picsum.photos/id/410/300/300",
+    "index": 299,
+    "name": "Nimon nostrud dolor",
+    "serial": "e41aaa4e-f063-4896-aaff-cdec1a13665f",
+    "symbol": "QL",
+    "description": "Veniam id irure Lorem occaecat aute cillum non commodo nisi.",
+    "categoryId": 6616
+  }
+]
