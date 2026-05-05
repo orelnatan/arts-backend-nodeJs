@@ -1,8 +1,11 @@
 const mysql = require('mysql2/promise');
-const express = require('express');
 const connectionConfig = require('../consts/connection-config.json');
+const env = require('../consts/environment.json');
+const express = require('express');
 const getExeption = require('../functions/get-exeption');
 const moment = require('moment');
+
+const jwt = require('jsonwebtoken');
 
 const router = express.Router();
 
@@ -35,19 +38,71 @@ router.post('/login', async (req, res) => {
     );
 
     const user = rows[0];
-    await delay(4000);
 
-    if (user) {
-      if (user.password === password && user.name === username) {
-        res.status(200).send(user);
-      } else {
-        return getExeption(res, 404, 'Wrong username or password, Please try again.');
-      }
+    if (user && user.password === password && user.name === username) {
+      // 1. Create a token (payload contains the user ID)
+      const token = jwt.sign({ id: user.id }, env.secretKey, { expiresIn: '1h' });
+
+      // 2. Return both the token and the user info
+      // (Don't send the password back to the frontend!)
+      const { password, ...userWithoutPassword } = user;
+      
+      res.status(200).send({
+        token: token,
+        user: userWithoutPassword
+      });
     } else {
-      return getExeption(res, 404, 'Wrong email, This user does not exist.');
+      return getExeption(res, 401, 'Invalid credentials');
     }
   } catch (error) {
-    return getExeption(res, 404, 'An error has occurred :(');
+    return getExeption(res, 500, 'Server error');
+  }
+});
+
+
+// GET /me - The "Bootstrap" call
+router.get('/me', async (req, res) => {
+  try {
+    // 1. Extract the token from the Authorization header
+    const authHeader = req.headers['authorization'];
+    
+    // Check if header exists and starts with "Bearer "
+    const token = authHeader && authHeader.split(' ')[1];
+
+    if (!token) {
+      return res.status(401).json({ message: 'No token provided, access denied.' });
+    }
+
+    // 2. Verify the JWT signature and expiration
+    jwt.verify(token, env.secretKey, async (err, decoded) => {
+      if (err) {
+        return res.status(403).json({ message: 'Token is invalid or has expired.' });
+      }
+
+      // 3. Fetch the full user row using the ID from the token payload
+      // We use * here to get all metadata (avatar, address, etc.)
+      const [rows] = await sqlConnection.execute(
+        'SELECT * FROM users WHERE id = ?', 
+        [decoded.id]
+      );
+
+      if (rows.length === 0) {
+        return res.status(404).json({ message: 'User no longer exists in database.' });
+      }
+
+      const user = rows[0];
+
+      // 4. Security: Strip the password field out of the object
+      // This uses the "rest" operator to create a new object without the password
+      const { password, ...userWithoutPassword } = user;
+
+      // 5. Send the full, sanitized profile back to React
+      res.status(200).json(userWithoutPassword);
+    });
+
+  } catch (error) {
+    console.error('Auth Error:', error);
+    return res.status(500).json({ message: 'Internal server error during re-authentication.' });
   }
 });
 
