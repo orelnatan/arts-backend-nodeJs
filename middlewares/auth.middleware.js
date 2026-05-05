@@ -1,4 +1,5 @@
 const jwt = require('jsonwebtoken');
+
 const env = require('../consts/environment.json');
 
 const authenticateToken = (req, res, next) => {

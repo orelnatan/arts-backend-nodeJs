@@ -1,11 +1,12 @@
-const mysql = require('mysql2/promise');
-const connectionConfig = require('../consts/connection-config.json');
-const env = require('../consts/environment.json');
-const express = require('express');
-const getExeption = require('../functions/get-exeption');
-const moment = require('moment');
 
+const mysql = require('mysql2/promise');
 const jwt = require('jsonwebtoken');
+const env = require('../consts/environment.json');
+const connectionConfig = require('../consts/connection-config.json');
+const delay = require('../utils/delay.util');
+const express = require('express');
+const getExeption = require('../utils/get-exeption.util');
+const moment = require('moment');
 
 const router = express.Router();
 
@@ -14,42 +15,24 @@ let sqlConnection;
   sqlConnection = await mysql.createConnection(connectionConfig);
 })();
 
-const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
-// GET all users
-router.get('/get-all-users', async (req, res) => {
-  try {
-    const [rows] = await sqlConnection.execute('SELECT * FROM users');
-    await delay(4000);
-    res.status(200).send(rows);
-  } catch (error) {
-    return getExeption(res, 404, 'An error has occurred :(');
-  }
-});
-
 // POST login
 router.post('/login', async (req, res) => {
   try {
     const { email, password, username } = req.body;
 
+    await delay(3000);
     const [rows] = await sqlConnection.execute(
       'SELECT * FROM users WHERE email = ?', 
       [email]
     );
 
     const user = rows[0];
-
     if (user && user.password === password && user.name === username) {
       // 1. Create a token (payload contains the user ID)
       const token = jwt.sign({ id: user.id }, env.secretKey, { expiresIn: '1h' });
 
-      // 2. Return both the token and the user info
-      // (Don't send the password back to the frontend!)
-      const { password, ...userWithoutPassword } = user;
-      
       res.status(200).send({
         token: token,
-        user: userWithoutPassword
       });
     } else {
       return getExeption(res, 401, 'Invalid credentials');
@@ -58,7 +41,6 @@ router.post('/login', async (req, res) => {
     return getExeption(res, 500, 'Server error');
   }
 });
-
 
 // GET /me - The "Bootstrap" call
 router.get('/me', async (req, res) => {
@@ -103,6 +85,17 @@ router.get('/me', async (req, res) => {
   } catch (error) {
     console.error('Auth Error:', error);
     return res.status(500).json({ message: 'Internal server error during re-authentication.' });
+  }
+});
+
+// GET all users
+router.get('/get-all-users', async (req, res) => {
+  try {
+    const [rows] = await sqlConnection.execute('SELECT * FROM users');
+    await delay(4000);
+    res.status(200).send(rows);
+  } catch (error) {
+    return getExeption(res, 404, 'An error has occurred :(');
   }
 });
 

@@ -1,7 +1,7 @@
 const mysql = require('mysql2/promise'); // Ensure you use the promise wrapper
 const express = require('express');
 const connectionConfig = require('../consts/connection-config.json');
-const getExeption = require('../functions/get-exeption');
+const getExeption = require('../utils/get-exeption.util');
 
 const router = express.Router();
 
