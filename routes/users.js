@@ -35,7 +35,7 @@ router.post('/login', async (req, res) => {
         token: token,
       });
     } else {
-      return getExeption(res, 401, 'Invalid credentials');
+      return getExeption(res, 401, 'Invalid credentials - User, email or password are incorrect');
     }
   } catch (error) {
     return getExeption(res, 500, 'Server error');
@@ -43,8 +43,10 @@ router.post('/login', async (req, res) => {
 });
 
 // GET /me - The "Bootstrap" call
-router.get('/me', async (req, res) => {
+router.get('/fetch-user', async (req, res) => {
   try {
+    await delay(3000);
+
     // 1. Extract the token from the Authorization header
     const authHeader = req.headers['authorization'];
     

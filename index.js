@@ -1,6 +1,7 @@
 
 const mysql = require('mysql2/promise');
 const express = require('express');
+const cors = require('cors');
 const bodyparser = require('body-parser');
 const connectionConfig = require('./consts/connection-config.json');
 const users = require("./routes/users");
@@ -22,6 +23,12 @@ let sqlConnection;
     console.error('Database connection failed!', error);
   }
 })();
+
+app.use(cors({
+  origin: 'http://localhost:5173', // Your React dev server
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  allowedHeaders: ['Content-Type', 'Authorization'], // <--- CRITICAL: Add Authorization here
+}));
 
 app.use(bodyparser.json());
 app.use(allowCrossDomain);
