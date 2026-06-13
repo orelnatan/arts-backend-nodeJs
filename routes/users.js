@@ -3,6 +3,7 @@ const mysql = require('mysql2/promise');
 const jwt = require('jsonwebtoken');
 const env = require('../consts/environment.json');
 const connectionConfig = require('../consts/connection-config.json');
+const authenticateToken = require('../middlewares/auth.middleware');
 const delay = require('../utils/delay.util');
 const express = require('express');
 const getExeption = require('../utils/get-exeption.util');
@@ -90,51 +91,41 @@ router.get('/fetch-user', async (req, res) => {
   }
 });
 
-// GET all users
-router.get('/get-all-users', async (req, res) => {
+// PUT /update-user - Full update
+router.put('/update-user', authenticateToken, async (req, res) => {
   try {
-    const [rows] = await sqlConnection.execute('SELECT * FROM users');
-    await delay(4000);
-    res.status(200).send(rows);
-  } catch (error) {
-    return getExeption(res, 404, 'An error has occurred :(');
-  }
-});
+    await delay(3000);
 
-// POST register
-router.post('/register', async (req, res) => {
-  try {
-    const { email, avatar, name, password, description, phone, type, company, address } = req.body;
+    // 1. Destructure to extract the ID and password (if you want to handle it), 
+    // and grab the rest of the profile properties as a clean object
+    const { id, password, registered, index, ...profileData } = req.body;
+    const userId = req.user.id; // Always trust the token ID for safety
 
-    // 1. Check if email exists (More efficient than fetching all users)
-    const [existing] = await sqlConnection.execute('SELECT email FROM users WHERE email = ?', [email]);
+    // 2. Automate the assignment string: "avatar = ?, name = ?, ..."
+    const setClause = Object.keys(profileData).map(key => `${key} = ?`).join(', ');
     
-    await delay(4500);
+    // 3. Collect the corresponding values, forcing undefined/empty values to null
+    const queryValues = Object.values(profileData).map(val => val ?? null);
 
-    if (existing.length > 0) {
-      return getExeption(res, 404, 'This email is already in use.');
+    // 4. Run the update query
+    const [updateResult] = await sqlConnection.execute(
+      `UPDATE users SET ${setClause} WHERE id = ?`,
+      [...queryValues, userId] // Spreading the clean array values right into the parameters
+    );
+
+    if (updateResult.affectedRows === 0) {
+      return res.status(404).json({ message: 'User not found.' });
     }
 
-    // 2. Get max ID and Index (Note: Auto-increment in DB is usually better than this!)
-    const [meta] = await sqlConnection.execute('SELECT MAX(id) as maxId, MAX(`index`) as maxIndex FROM users');
-    const newId = (meta[0].maxId || 0) + 1;
-    const newIndex = (meta[0].maxIndex || 0) + 1;
-    const joinedAt = moment().format('YYYY-MM-DD');
+    // 5. Fetch and return the fresh user record
+    const [rows] = await sqlConnection.execute('SELECT * FROM users WHERE id = ?', [userId]);
+    const { password: _, ...userWithoutPassword } = rows[0];
 
-    // 3. Insert new user
-    const insertSql = `
-      INSERT INTO users (id, avatar, \`index\`, name, password, registered, description, email, phone, type, company, address)
-      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    `;
-    
-    await sqlConnection.execute(insertSql, [
-      newId, avatar, newIndex, name, password, joinedAt, description, email, phone, type, company, address
-    ]);
+    return res.status(200).json(userWithoutPassword);
 
-    res.status(200).send(req.body);
   } catch (error) {
-    console.error(error);
-    return getExeption(res, 404, 'An error has occurred :(');
+    console.error('Update User Error:', error);
+    return getExeption(res, 500, 'Server error during user update.');
   }
 });
 
