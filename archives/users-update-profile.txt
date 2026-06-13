@@ -1,0 +1,47 @@
+
+** By Gemini - Use this when implementing the "update profile" form. - 13/06/2026
+
+Option A: The Dynamic PATCH Route (Highly Recommended)
+Instead of reverting back to your old PUT endpoint that required the entire user object, you can reuse the dynamic mapping logic from your original route, but use PATCH semantics.
+
+This means the frontend sends only the fields that changed, and the backend dynamically updates just those fields.
+
+// PATCH /update-profile - Updates only the fields provided in req.body
+router.patch('/update-profile', authenticateToken, async (req, res) => {
+  try {
+    await delay(3000);
+
+    // Strip out fields that should never be updated via this form
+    const { id, password, registered, role, ...profileData } = req.body;
+    const userId = req.user.id;
+
+    // If the user submitted an empty form
+    if (Object.keys(profileData).length === 0) {
+      return res.status(400).json({ message: 'No fields provided for update.' });
+    }
+
+    // Build the dynamic query: "firstName = ?, lastName = ?"
+    const setClause = Object.keys(profileData).map(key => `${key} = ?`).join(', ');
+    const queryValues = Object.values(profileData);
+
+    const [updateResult] = await sqlConnection.execute(
+      `UPDATE users SET ${setClause} WHERE id = ?`,
+      [...queryValues, userId]
+    );
+
+    if (updateResult.affectedRows === 0) {
+      return res.status(404).json({ message: 'User not found.' });
+    }
+
+    // Return the updated fields so the frontend can sync its state
+    return res.status(200).json({
+      success: true,
+      message: 'Profile updated successfully.',
+      updatedFields: profileData
+    });
+
+  } catch (error) {
+    console.error('Update Profile Error:', error);
+    return getExeption(res, 500, 'Server error during profile update.');
+  }
+});

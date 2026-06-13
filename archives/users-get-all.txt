@@ -1,0 +1,13 @@
+
+// GET all users
+router.get('/get-all-users', async (req, res) => {
+  try {
+    const [rows] = await sqlConnection.execute('SELECT * FROM users');
+    await delay(4000);
+    res.status(200).send(rows);
+  } catch (error) {
+    return getExeption(res, 404, 'An error has occurred :(');
+  }
+});
+
+module.exports = router;

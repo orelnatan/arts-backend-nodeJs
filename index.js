@@ -26,7 +26,7 @@ let sqlConnection;
 
 app.use(cors({
   origin: 'http://localhost:5173', // Your React dev server
-  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
   allowedHeaders: ['Content-Type', 'Authorization'], // <--- CRITICAL: Add Authorization here
 }));
 
