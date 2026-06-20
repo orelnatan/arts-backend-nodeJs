@@ -1,7 +1,9 @@
-const mysql = require('mysql2/promise'); // Switch to promise wrapper
-const express = require('express');
+const mysql = require('mysql2/promise');
 const connectionConfig = require('../consts/connection-config.json');
+const delay = require('../utils/delay.util');
 const getExeption = require('../utils/get-exeption.util');
+const authenticateToken = require('../middlewares/auth.middleware');
+const express = require('express');
 
 const router = express.Router();
 
@@ -10,27 +12,30 @@ let sqlConnection;
   sqlConnection = await mysql.createConnection(connectionConfig);
 })();
 
-// Reusable delay helper
-const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
-// GET families by category ID
-router.get('/get-families-by-category-id', async (req, res) => {
+// GET families by category ID using a route/path parameter
+// Updated URL pattern: /get-families-by-category-id/:categoryId
+router.get('/get-families-by-category-id/:categoryId', authenticateToken, async (req, res) => {
   try {
-    const { categoryId } = req.query;
+    // 👇 Extracting from req.params to match your dynamic routing tree
+    const { categoryId } = req.params;
 
-    // Use .execute with '?' to prevent SQL Injection
+    // Execute query using prepared statements to prevent SQL Injection
     const [rows] = await sqlConnection.execute(
       'SELECT * FROM families WHERE categoryId = ?', 
       [categoryId]
     );
 
-    // Your specific 2500ms delay
-    await delay(2500);
+    // Simulated delay (3000ms for a uniform server loading experience across endpoints)
+    await delay(3000);
 
-    res.status(200).send(rows);
+    // 👇 Uniform JSON payload matching your application standards
+    res.status(200).json({
+      success: true,
+      data: rows
+    });
+
   } catch (error) {
-    // Catching both DB errors and syntax errors
-    return getExeption(res, 404, 'An error has occurred :(');
+    return getExeption(res, 500, 'An error has occurred :(');
   }
 });
 
