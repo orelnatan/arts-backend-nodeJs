@@ -8,6 +8,7 @@ const express = require('express');
 const router = express.Router();
 
 let sqlConnection;
+
 (async () => {
   sqlConnection = await mysql.createConnection(connectionConfig);
 })();
@@ -19,9 +20,16 @@ router.get('/get-all-brands', authenticateToken, async (req, res) => {
 
     await delay(3000);
 
-    res.status(200).send(rows);
+    res.status(200).json({
+      success: true,
+      data: rows
+    });
+
   } catch (error) {
-    return getExeption(res, 500, 'An error has occurred :(');
+    return res.status(500).json({
+      success: false,
+      message: 'An error has occurred :('
+    });
   }
 });
 

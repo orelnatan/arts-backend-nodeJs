@@ -1,7 +1,9 @@
-const mysql = require('mysql2/promise'); // Ensure you use the promise wrapper
-const express = require('express');
+const mysql = require('mysql2/promise');
 const connectionConfig = require('../consts/connection-config.json');
+const delay = require('../utils/delay.util');
 const getExeption = require('../utils/get-exeption.util');
+const authenticateToken = require('../middlewares/auth.middleware');
+const express = require('express');
 
 const router = express.Router();
 
@@ -10,27 +12,31 @@ let sqlConnection;
   sqlConnection = await mysql.createConnection(connectionConfig);
 })();
 
-// Helper for the simulated delay
-const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
-// GET categories by brand ID
-router.get('/get-categories-by-brand-id', async (req, res) => {
+// GET categories by brand ID using a route/path parameter
+// Updated URL pattern to match standard RESTful routing: /get-categories-by-brand-id/:brandId
+router.get('/get-categories-by-brand-id/:brandId', authenticateToken, async (req, res) => {
   try {
-    const { brandId } = req.query;
+    // 👇 Destructuring from req.params instead of req.query
+    const { brandId } = req.params; 
 
-    // 1. Execute query using prepared statements to prevent SQL Injection
-    // 2. Destructure the result to get the rows
+    // Execute query using prepared statements to prevent SQL Injection
     const [rows] = await sqlConnection.execute(
       'SELECT * FROM categories WHERE brandId = ?', 
       [brandId]
     );
 
-    // Simulated delay
-    await delay(2000);
+    // Simulated delay (3000ms to match the brands behavior)
+    await delay(2500);
 
-    res.status(200).send(rows);
+    // 👇 Standardized JSON structure matching your Brands endpoint
+    res.status(200).json({
+      success: true,
+      data: rows
+    });
+
   } catch (error) {
-    return getExeption(res, 404, 'An error has occurred :(');
+    // Utilizing your custom error utility consistently
+    return getExeption(res, 500, 'An error has occurred :(');
   }
 });
 
