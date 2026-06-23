@@ -16,7 +16,6 @@ let sqlConnection;
 // Updated URL pattern: /get-families-by-category-id/:categoryId
 router.get('/get-families-by-category-id/:categoryId', authenticateToken, async (req, res) => {
   try {
-    // 👇 Extracting from req.params to match your dynamic routing tree
     const { categoryId } = req.params;
 
     // Execute query using prepared statements to prevent SQL Injection
@@ -26,9 +25,8 @@ router.get('/get-families-by-category-id/:categoryId', authenticateToken, async 
     );
 
     // Simulated delay (3000ms for a uniform server loading experience across endpoints)
-    await delay(3000);
+    await delay(2100);
 
-    // 👇 Uniform JSON payload matching your application standards
     res.status(200).json({
       success: true,
       data: rows

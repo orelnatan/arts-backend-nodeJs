@@ -46,7 +46,7 @@ router.post('/login', async (req, res) => {
 // GET /me - The "Bootstrap" call
 router.get('/fetch-user', async (req, res) => {
   try {
-    await delay(3000);
+    await delay(2500);
 
     // 1. Extract the token from the Authorization header
     const authHeader = req.headers['authorization'];
@@ -132,7 +132,7 @@ router.put('/update-user', authenticateToken, async (req, res) => {
 // PATCH /update-theme - Partial update for user theme
 router.patch('/update-theme', authenticateToken, async (req, res) => {
   try {
-    await delay(3000); // Keeping your simulated delay
+    await delay(1800); 
 
     const { theme } = req.body;
     const userId = req.user.id;
@@ -168,7 +168,7 @@ router.patch('/update-theme', authenticateToken, async (req, res) => {
 // PATCH /update-locale - Partial update for user locale
 router.patch('/update-locale', authenticateToken, async (req, res) => {
   try {
-    await delay(3000); // Keeping your simulated delay
+    await delay(2000); 
 
     const { locale } = req.body;
     const userId = req.user.id;

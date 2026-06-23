@@ -18,7 +18,7 @@ router.get('/get-all-brands', authenticateToken, async (req, res) => {
   try {
     const [rows] = await sqlConnection.query('SELECT * FROM brands');
 
-    await delay(3000);
+    await delay(1000);
 
     res.status(200).json({
       success: true,

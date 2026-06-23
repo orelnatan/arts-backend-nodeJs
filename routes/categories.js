@@ -16,7 +16,6 @@ let sqlConnection;
 // Updated URL pattern to match standard RESTful routing: /get-categories-by-brand-id/:brandId
 router.get('/get-categories-by-brand-id/:brandId', authenticateToken, async (req, res) => {
   try {
-    // 👇 Destructuring from req.params instead of req.query
     const { brandId } = req.params; 
 
     // Execute query using prepared statements to prevent SQL Injection
@@ -35,7 +34,7 @@ router.get('/get-categories-by-brand-id/:brandId', authenticateToken, async (req
     });
 
   } catch (error) {
-    // Utilizing your custom error utility consistently
+    // Utilizing custom error utility consistently
     return getExeption(res, 500, 'An error has occurred :(');
   }
 });
